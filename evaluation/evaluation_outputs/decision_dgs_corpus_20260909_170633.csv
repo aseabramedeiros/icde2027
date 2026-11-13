@@ -1,0 +1,2 @@
+﻿assessment_dimension,n_contracts,n_criteria,contract_criterion_pairs,symbolic_determined_pairs,corpus_symbolic_dgs,neuro_symbolic_determined_pairs,corpus_neuro_symbolic_dgs,additional_pairs_determined_by_neural,corpus_delta_dgs,mean_contract_symbolic_dgs,mean_contract_neuro_symbolic_dgs,mean_contract_delta_dgs,median_neuro_symbolic_dgs,std_neuro_symbolic_dgs
+criticidade,68,5,340,125,0.3676,243,0.7147,118,0.3471,0.3676,0.7147,0.3471,0.8,0.2377

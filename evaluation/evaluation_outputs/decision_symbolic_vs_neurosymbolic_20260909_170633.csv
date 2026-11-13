@@ -1,0 +1,5 @@
+﻿decision_level,decision_label,symbolic_contracts,symbolic_proportion,neuro_symbolic_contracts,neuro_symbolic_proportion
+criticidade_baixa,CRITICIDADE BAIXA,54,0.7941,38,0.5588
+criticidade_media,CRITICIDADE MÉDIA,11,0.1618,22,0.3235
+criticidade_alta,CRITICIDADE ALTA,0,0.0,3,0.0441
+criticidade_critica,CRITICIDADE CRÍTICA,3,0.0441,5,0.0735

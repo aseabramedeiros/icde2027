@@ -1,0 +1,1019 @@
+====================================================================================================
+CONTRACT: OCS 4/2023
+FILE: KOA_UFO_contrato_ocs_004_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação simbólica do contrato OCS 4/2023 resultou na decisão de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. O critério de acesso administrativo foi estabelecido com o estado de contradição, pois o objeto contratual consiste no fornecimento de computadores portáteis sem prever privilégios de administração de recursos de TI do Banco. Em contraste, os critérios de informação sensível e acesso físico encontram-se em estado parcial, fundamentados respectivamente em menções condicionais sobre sigilo e proteção de dados e em disposições sobre o uso de crachás por funcionários, indicando apenas acesso eventual ou entregas. Os critérios de processo crítico e acesso ativo de TI permanecem indeterminados por falta de evidência explícita. Como nenhum critério crítico foi integralmente satisfeito e há contradição no acesso administrativo, o resultado formal consolida-se no nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora o suporte probatório para os critérios de informação sensível e de acesso físico, validando semanticamente as cláusulas de sigilo e de identificação por crachás de funcionários. Paralelamente, a interpretação semântica dos termos contratuais confirma que o escopo se restringe estritamente ao fornecimento de computadores portáteis, reforçando a ausência de suporte para os critérios de processo crítico e acesso ativo de TI. Cabe ressaltar que este suporte neuronal possui caráter estritamente complementar e interpretativo, não equivalendo à evidência formalmente fundamentada pelo motor de provas simbólico. Como a recomendação neuro-simbólica resultante coincide com a decisão de criticidade baixa obtida na primeira etapa, conclui-se que a camada neural apenas detalha o contexto semântico das evidências existentes, sem alterar o estado formal preexistente ou modificar o nível de criticidade do contrato OCS 4/2023.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 8/2022
+FILE: KOA_UFO_contrato_ocs_008_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 8/2022, a avaliação da dimensão de criticidade resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da análise dos critérios estabelecidos nas regras executáveis. O critério de informação sensível foi plenamente satisfeito, uma vez que as cláusulas de sigilo e proteção de dados preveem obrigações detalhadas sobre o acesso e tratamento de informações confidenciais pela contratada. Da mesma forma, o processo crítico foi estabelecido de forma satisfeita, pois o objeto do contrato envolve o fornecimento de infraestrutura de armazenamento para os sistemas corporativos principais do ambiente de plataforma alta. Por outro lado, os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem estritamente em estados indeterminados, pois as evidências contratuais disponíveis não detalham a alocação de colaboradores in loco, a concessão de privilégios administrativos ou o acesso físico a instalações sensíveis. Assim, a decisão de criticidade baixa decorre diretamente da conjunção dos critérios formalmente satisfeitos em contraste com as lacunas probatórias remanescentes.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural à análise do contrato OCS 8/2022, a verificação semântica dos critérios de acesso ativo de TI, acesso administrativo e acesso físico indicou que ambos permanecem indeterminados, uma vez que as cláusulas sobre suporte técnico e instalação de equipamentos de armazenamento não detalham a alocação de colaboradores in loco, a concessão de privilégios administrativos ou a frequência de acesso a instalações sensíveis. Essa avaliação neural atua de forma estritamente complementar e não é equivalente a uma evidência formalmente fundamentada, respeitando a restrição de que lacunas textuais não permitem alterar o estado formal pré-existente. Como consequência, a ausência de novas evidências conclusivas mantém inalterada a decisão de criticidade baixa obtida na etapa simbólica, visto que os critérios indeterminados não foram convertidos em satisfeitos pela análise semântica complementar.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 11/2022
+FILE: KOA_UFO_contrato_ocs_011_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal do contrato OCS 11/2022 demonstra que os critérios de informação sensível, processo crítico e acesso físico foram integralmente estabelecidos e satisfeitos. A Cláusula Décima Terceira e a Cláusula Décima Quarta fundamentam a satisfação do critério de informação sensível ao estabelecerem obrigações de sigilo e proteção de dados. O critério de processo crítico foi atendido pela Cláusula Primeira, que define a aquisição de equipamentos para armazenamento de dados dos sistemas corporativos. O acesso físico restou satisfeito com base nas regras para execução de serviços em data centers e dependências do BNDES. Por outro lado, os critérios de acesso ativo de TI e acesso administrativo permanecem parciais ou indeterminados, pois o texto contratual não especifica alocação de mão de obra com acesso a ativos críticos nem a concessão de privilégios administrativos. Conforme as regras executáveis, a configuração observada resulta na conclusão simbólica de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar concentrou-se nos critérios de acesso ativo de TI e acesso administrativo, cujos estados formais permanecem indeterminados. Com base na interpretação semântica das cláusulas contratuais, verificou-se que o objeto do contrato envolve o fornecimento de equipamentos de armazenamento de dados e suporte técnico, sem prever a alocação de mão de obra dedicada com acesso direto a ativos de TI internos ou especificar privilégios administrativos diretos, mantendo as lacunas identificadas na avaliação formal. Cumpre ressaltar que este suporte neural é estritamente complementar e não equivale a evidências formais fundamentadas. Visto que a recomendação neuro-symbolic coincide com a conclusão simbólica ao apontar o mesmo nível de criticidade baixa, infere-se que a ausência de detalhamento sobre esses acessos não altera o enquadramento de risco previamente estabelecido pelas demais premissas já satisfeitas.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 11/2023
+FILE: KOA_UFO_contrato_ocs_011_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação de criticidade do contrato OCS 11/2023 resultou na decisão simbólica de criticidade baixa. Conforme as evidências formais analisadas, o critério de informação sensível encontra-se em estado parcial, pois as Cláusulas Décima Segunda e Décima Terceira regulam o tratamento de dados pessoais e o acesso a informações sigilosas mediante autorização e termos de confidencialidade. Os demais critérios encontram-se em estado indeterminado. O critério de processo crítico possui evidência apenas sobre suporte técnico para o software Big-IP e mentoria, sem esclarecer se o serviço suporta processo crítico ou sistemas principais. Os critérios de acesso ativo de TI, acesso administrativo e acesso físico apresentam apenas menções genéricas sobre responsabilidade por normas de segurança e acessos, sem especificar privilégios administrativos, alocação com acesso direto a ativos de TI ou acesso a instalações críticas. A decisão simbólica de criticidade baixa decorre da ausência de critérios plenamente satisfeitos.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A camada de processamento neural complementa a análise formal indicando suporte semântico em relação ao acesso ativo de TI, observado na alocação de profissionais e obrigações de uso de acessos para a execução do suporte técnico ao software Big-IP, além de reforçar o tratamento de informações sensíveis nas Cláusulas Décima Segunda e Décima Terceira. Cabe ressaltar que esse suporte neural é estritamente complementar e não possui equivalência com evidências formais de satisfação no encadeamento simbólico rígido. Contudo, a ponderação desses elementos semânticos sugere uma recomendação neuro-simbólica de criticidade média, elevando o grau de criticidade (DGS) de 0,0 para 0,4. Essa divergência em relação à decisão simbólica de criticidade baixa decorre especificamente do reconhecimento neural de suporte no critério de acesso ativo de TI, enquanto os demais critérios permaneceram indeterminados.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 12/2022
+FILE: KOA_UFO_contrato_ocs_012_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Com base na avaliação formal do contrato OCS 12/2022, a decisão simbólica resultante é de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis sobre o estado dos critérios analisados. O critério de informação sensível encontra-se satisfeito, pois o contrato prevê expressamente regras sobre sigilo e proteção de dados pessoais nas Cláusulas Décima Terceira e Décima Quarta. O critério de acesso físico também está satisfeito, evidenciado pela previsão de serviços de instalação e assistência técnica nos data centers principal e secundário, além de normas de segurança das dependências. Por outro lado, os critérios de processo crítico, acesso ativo de TI e acesso administrativo permanecem em estado indeterminado, pois as evidências contratuais disponíveis são insuficientes para confirmar a incidência dessas condições. A satisfação exclusiva de parte dos critérios resulta na classificação final correspondente à criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural estritamente analítico e não equivalente à evidência simbólica formal, observa-se a análise semântica sobre os critérios de processo crítico, acesso ativo de TI e acesso administrativo do contrato OCS 12/2022. A interpretação do objeto contratual confirma o fornecimento de equipamentos de backup, licenças e suporte técnico, sem evidenciar concessão de privilégios administrativos ou alocação de mão de obra com acesso direto a ativos críticos. No entanto, ante a ausência de detalhamento explícito sobre suporte a processos críticos e sistemas principais de TI, tais aspectos permanecem sem confirmação definitiva nos trechos analisados. Como o grau de risco consolidado apresentou variação de 0,4 para 0,6 sem alterar a classificação categórica, esta camada neural complementar não altera a conclusão simbólica vigente, mantendo a recomendação final de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 18/2023
+FILE: KOA_UFO_contrato_ocs_018_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal da criticidade do contrato OS 18/2023 resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão fundamenta-se na análise dos critérios estabelecidos, onde apenas o critério de informação sensível foi plenamente satisfeito pelo estado S. Tal estabelecimento decorre das disposições contidas na Cláusula Décima Terceira e na Cláusula Décima Quarta, que preveem obrigações expressas relativas ao sigilo e à proteção de dados pessoais. Por outro lado, os critérios referentes a processo crítico, acesso ativo de TI, acesso administrativo e acesso físico encontram-se em estado U, permanecendo parciais ou subespecificados nos artefatos analisados. Nesses casos, as evidências disponíveis nas cláusulas são insuficientes ou genéricas, não confirmando a presença de tais fatores de risco. Conforme as regras executáveis do sistema, a presença exclusiva do critério de informação sensível, conjugada com a indefinição dos demais quesitos, conduz diretamente ao nível simbólico de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de suporte neural atuou de forma estritamente complementar sobre os critérios mantidos em estado indeterminado, analisando trechos contratuais como a Cláusula Primeira, referente à subscrição e ao suporte do software Elastic Stack, a Cláusula Décima Quinta sobre máquinas virtuais, e as regras gerais de segurança das dependências. A análise neural confirmou que tais evidências permanecem genéricas ou insuficientes para comprovar de forma inequívoca a presença de processos críticos, acesso ativo de TI, privilégios administrativos ou acesso físico a áreas sensíveis do Banco, preservando o estado formal indeterminado desses quesitos. Ressalta-se que este suporte neural possui caráter puramente complementar e não equivale a uma evidência simbólica formalmente fundamentada. Como nenhum critério adicional foi satisfeito, o nível global de criticidade permanece inalterado em patamar baixo, mantendo total alinhamento com a decisão simbólica original.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 23/2024
+FILE: KOA_UFO_contrato_ocs_023_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Com base na avaliação do contrato OCS 23/2024 quanto à dimensão de criticidade, o critério de informação sensível foi formalmente estabelecido como satisfeito (S), fundamentado pela Cláusula Décima Segunda, que define regras de sigilo, e pela Cláusula Décima Terceira, que protege dados pessoais. Em contrapartida, os demais critérios permaneceram em estado indeterminado (U). Especificamente, o suporte a processo crítico, o acesso ativo de TI, o acesso administrativo e o acesso físico não contam com evidências textuais explícitas suficientes no contrato fornecido para confirmar a satisfação de tais exigências. Conforme as regras de decisão executáveis, a presença de apenas um critério satisfeito, sem gatilhos para níveis elevados de criticidade, determina diretamente a conclusão simbólica de criticidade baixa para o presente contrato.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar examinou os critérios remanescentes do contrato OCS 23/2024, mantendo inalterado o estado formal de indeterminação para o suporte a processos críticos e para o acesso administrativo, ao passo que indicou contradição para o acesso ativo de TI e para o acesso físico, visto que o escopo se restringe à emissão digital de certificados ICP-Brasil sem previsão de alocação de postos de trabalho ou presença física nas dependências do Banco. Cabe ressaltar que este suporte neural é estritamente complementar e não equivale a evidências formais de base simbólica. Como o grau de atendimento global ajustado permaneceu abaixo dos limiares necessários para uma elevação de risco, a recomendação neurosimbólica final confirma e preserva a conclusão simbólica original de criticidade baixa, demonstrando alinhamento entre a estrita tipicidade contratual e os achados da varredura semântica neural.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 26/2024
+FILE: KOA_UFO_contrato_ocs_026_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 26/2024 demonstra que o critério de acesso administrativo foi plenamente estabelecido como atendido, pois o instrumento veda expressamente o acesso não autorizado e o objeto contratual não contempla prerrogativa de administração de recursos de TI. Em contrapartida, os critérios referentes a informação sensível, processo crítico, acesso ativo de TI e acesso físico permanecem em estados parciais ou não determinados. Especificamente, há previsão de regras de sigilo e proteção de dados, configurando acesso potencial ou indireto, e o objeto define a emissão de certificados digitais. Contudo, as evidências são omissas quanto ao acesso direto a sistemas principais, à alocação de mão de obra dedicada a ativos críticos e ao acesso físico a instalações do Banco. Conforme as regras de decisão aplicáveis, a ausência de critérios plenamente satisfeitos, combinada com a inexistência de elementos que elevam o risco, resulta na decisão simbólica de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora o tratamento semântico das cláusulas contratuais referentes ao contrato OCS 26/2024, atuando de forma estritamente auxiliar sem equivaler a evidências formais consolidadas. A avaliação neural confirma, por meio das cláusulas de sigilo e proteção de dados, o suporte ao critério de informação sensível (`crit_001`), enquanto mantém como indeterminados os quesitos sobre processo crítico (`crit_002`), acesso ativo de TI (`crit_003`) e acesso físico (`crit_005`), visto que as disposições sobre a emissão de certificados digitais e o escopo geral não detalham a alocação de mão de obra em ativos críticos ou a presença nas instalações da instituição. Como a recomendação neuro-symbolic aponta o mesmo nível de criticidade baixa da decisão simbólica original, conclui-se que o suporte neural complementar aos trechos textuais analisados não altera o panorama de risco, preservando integralmente a conclusão formal estabelecida na primeira etapa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 27/2024
+FILE: KOA_UFO_contrato_ocs_027_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal do contrato OCS 27/2024 resulta na decisão de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis com base no estado dos critérios analisados. O critério de informação sensível foi plenamente satisfeito, conforme evidenciado pelas cláusulas décima segunda e décima terceira, que preveem regras de sigilo de informações e proteção de dados pessoais. Da mesma forma, o critério de processo crítico foi satisfeito, pois a cláusula primeira estabelece a emissão de certificados digitais Open Finance, SPB e módulo de compensação de boletos CMP, apoiando os principais sistemas de TI. Em contrapartida, os critérios referentes ao acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado, visto que o texto contratual analisado não apresenta menções explícitas sobre alocação presencial, privilégios administrativos ou acesso físico às instalações e áreas críticas do Banco. Como apenas os critérios de informação sensível e processo crítico foram estabelecidos, o resultado formal consolida a decisão de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar examinou os critérios de acesso ativo de TI, acesso administrativo e acesso físico, todos formalmente mantidos em estado indeterminado. Embora a leitura semântica indique que o escopo de emissão de certificados digitais e a vedação à subcontratação afastam a alocação de mão de obra e ativos nas dependências do Banco, e a ausência de menção textual deixe inconclusivos os privilégios administrativos e o acesso físico às instalações, essa camada neural atua de forma estritamente complementar e não possui equivalência a evidências formais fundamentadas. O índice de densidade de governança neuro-simbólica sofreu uma leve variação positiva, mas essa ponderação semântica adicional não altera o patamar de criticidade. Desse modo, visto que a conclusão simbólica oficial permanece inalterada, o contrato OCS 27/2024 consolida definitivamente a decisão de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 28/2022
+FILE: KOA_UFO_contrato_ocs_028_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 28/2022, a avaliação da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Essa conclusão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. O critério de acesso administrativo foi estabelecido com o estado C, pois o objeto do contrato cinge-se a licenças de software Microsoft 365 e serviços de implantação e treinamento, com vedações expressas ao acesso a informações confidenciais e ausência de previsão de privilégios administrativos. Em contrapartida, os critérios de informação sensível e de acesso físico permaneceram em estado parcial (P e U, respectivamente), havendo previsões sobre sigilo e regras gerais de segurança nas dependências, mas sem evidências conclusivas sobre áreas críticas. Por fim, os critérios de processo crítico e acesso ativo de TI permaneceram indeterminados (U) devido à falta de especificações explícitas. Assim, a ausência de critérios integralmente satisfeitos combinada com a inexistência de acessos administrativos sustenta o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de complementação neural oferece suporte interpretativo suplementar que, embora não substitua a evidência formal, enriquece a leitura do contrato OCS 28/2022. Com base na análise semântica das evidências textuais, identificou-se suporte neural para os critérios de informação sensível, processo crítico — associado à infraestrutura de nuvem e produtividade do Microsoft 365 — e acesso físico decorrente da previsão de profissionais alocados. Apesar desse suporte neural complementar indicar nuances operacionais adicionais e elevar o índice de densidade de grau de suporte (DGS) de 0,2 para 0,8, a recomendação neuro-simbólica final permanece alinhada à decisão simbólica original de criticidade baixa. Essa manutenção ocorre porque o suporte neural atua de forma interpretativa e não altera o estado formal dos critérios na base simbólica, preservando a conclusão de que a ausência de acessos administrativos diretos e de privilégios irrestritos sustenta o nível de risco reduzido.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 28/2024
+FILE: KOA_UFO_contrato_ocs_028_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 28/2024, dimensionada sob o critério de criticidade, resulta na decisão simbólica de CRITICIDADE MÉDIA. Esta conclusão decorre da satisfação formal dos critérios de informação sensível, processo crítico, acesso ativo de TI e acesso físico. Especificamente, as Cláusulas Décima Quarta e Décima Quinta estabelecem regras de sigilo e dados pessoais. A Cláusula Primeira define a operação da infraestrutura de TI do BNDES, apoiando processos críticos. As Cláusulas Terceira e Décima Primeira confirmam a alocação de profissionais com acesso a ativos de TI e o cumprimento de normas de segurança e utilização de acessos às dependências do Banco. Por outro lado, o critério de acesso administrativo permanece em estado parcial, pois o acesso específico não é detalhado no texto contratual principal sem o Termo de Referência. A decisão simbólica de criticidade média segue estritamente a regra vencedora e o atingimento simultâneo dos níveis correspondentes.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+A análise neural complementar examinou o critério de acesso administrativo, avaliando semanticamente a Cláusula Primeira sobre a operação da infraestrutura de TI e a Cláusula Décima Primeira referente às vedações de engenharia reversa e manipulação de aplicativos. Essa camada neural fornece suporte complementar indicando que o escopo contratual envolve prerrogativas de acesso técnico a recursos centrais do Banco, o que difere do estado parcial determinado pela fundamentação simbólica formal. Ressalta-se que este suporte neural possui caráter estritamente complementar e não substitui a evidência simbólica formal. Enquanto a decisão simbólica consolidada estabeleceu a criticidade média devido ao detalhamento restrito no texto principal do contrato, a recomendação neuro-simbólica aponta para o nível de criticidade crítica, sendo diretamente impulsionada pela reavaliação semântica do critério de acesso administrativo sustentada pelas evidências textuais identificadas.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 32/2024
+FILE: KOA_UFO_contrato_ocs_032_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Com base na análise formal do contrato OCS 32/2024, a avaliação da dimensão criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre do fato de que nenhum critério foi integralmente satisfeito pelas evidências contratuais. Os critérios de informação sensível e processo crítico encontram-se em estado parcial (P), pois a Cláusula Décima Terceira menciona o sigilo de dados de forma genérica, sem detalhamento exaustivo, e o objeto prevê suporte técnico ao software IBM WebSphere MQ sem especificar se este suporta um processo crítico principal da instituição. Por sua vez, os critérios de acesso ativo de TI, acesso administrativo e acesso físico encontram-se em estado indeterminado (U), visto que o texto do contrato carece de menções explícitas sobre alocação de mão de obra residente, concessão de privilégios administrativos ou acesso a instalações e áreas críticas do Banco. Como não há critérios satisfeitos, aplica-se a regra correspondente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar identificou suporte semântico adicional nos critérios de informação sensível e acesso ativo de TI com base nas disposições da Cláusula Décima Terceira e da Cláusula Primeira sobre o suporte ao software IBM WebSphere MQ, resultando em uma recomendação neuro-simbólica de criticidade média que diverge da decisão simbólica de criticidade baixa. Destaca-se que este suporte neural possui caráter estritamente complementar e não substitui ou equivale à evidência formalmente fundamentada da primeira etapa, mantendo inalterados os estados formais originais dos critérios. A divergência para o nível intermediário decorre especificamente do reconhecimento semântico de que a contratação de suporte técnico continuado a um sistema de mensageria corporativa e a previsão de manuseio de dados sigilosos preenchem os conceitos operacionais subjacentes aos critérios avaliados, ainda que o texto contratual careça do detalhamento exaustivo exigido formalmente.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 35/2022
+FILE: KOA_UFO_contrato_ocs_035_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal da criticidade do contrato OCS 35/2022 resulta na conclusão de CRITICIDADE BAIXA. Essa decisão decorre da aplicação das regras executáveis sobre o estado dos critérios analisados. O critério de acesso físico foi formalmente satisfeito (S), pois a Cláusula Décima Primeira estabelece regras para a identificação e relação de trabalhadores em serviços presenciais nas instalações do Banco. Por outro lado, o acesso administrativo foi considerado contraditório (C) por se tratar de um contrato de telecomunicações móveis (SMP) sem previsão de privilégios administrativos. O critério de informação sensível permaneceu parcial (P) devido à menção a sigilo e proteção de dados, mas sem foco em bases sensíveis do Banco. Os critérios de processo crítico e acesso ativo de TI permaneceram indeterminados (U). O resultado final reflete exclusivamente a satisfação restrita do acesso físico, consolidando o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Enquanto a avaliação formal estabeleceu a criticidade baixa com base nas regras executáveis, a camada neural oferece suporte interpretativo complementar para os critérios de informação sensível, processo crítico e acesso ativo de TI, utilizando evidências contratuais sobre o fornecimento de serviços de telecomunicações móveis (SMP) e dispositivos em comodato. Especificamente, a análise semântica identificou suporte complementar para o tratamento de dados nas cláusulas de sigilo, mas contradisse a relevância para processos críticos e acesso ativo de TI devido ao escopo estrito de comunicação por voz, SMS e dados sem alocação dedicada a sistemas corporativos. É fundamental destacar que este suporte neural é estritamente complementar e não equivale a evidências formais consolidadas pelo motor simbólico. Como o incremento no grau de suporte global (*DGS*) não foi suficiente para alterar o enquadramento final, a recomendação neuro-simbólica mantém o patamar de criticidade baixa inalterado.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 42/2021
+FILE: KOA_UFO_contrato_ocs_042_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE CRÍTICA
+
+A avaliação formal do contrato OCS 42/2021 resultou na decisão simbólica de CRITICIDADE CRÍTICA. Esta conclusão decorre da satisfação integral dos critérios analisados com base nas evidências contratuais estabelecidas. O critério de informação sensível foi plenamente atendido pela Cláusula Décima Terceira, que impõe regras de sigilo e obriga o cumprimento da política de segurança. O processo crítico restou estabelecido na Cláusula Primeira, que define a prestação de serviços de infraestrutura de data center alternativo. Os critérios de acesso ativo de TI e acesso administrativo foram comprovados pelas disposições sobre alocação de profissionais, gerenciamento e execução técnica em ativos de TI. Por fim, o acesso físico restou plenamente satisfeito pela Cláusula Décima Terceira, que prevê expressamente a prestação de serviços nas dependências do BNDES. A incidência combinada da infraestrutura de data center alternativo, da administração de recursos de TI e do acesso físico aciona a regra vencedora aplicável, determinando formalmente o nível máximo de criticidade.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+O componente neural suplementar atua de forma estritamente complementar, sem equivalência com a evidência formalmente fundamentada pelo motor simbólico. Como a camada de avaliações neurais não registrou incidências adicionais para o contrato OCS 42/2021, a recomendação neuro-simbólica mantém-se alinhada à decisão simbólica, preservando integralmente o nível de criticidade crítica. A ausência de elementos neurais divergentes significa que o resultado permanece inalterado, sustentando-se exclusivamente nas regras lógicas previamente aplicadas.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 43/2021
+FILE: KOA_UFO_contrato_ocs_043_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 43/2021 resulta na conclusão de criticidade baixa com base na análise formal dos critérios estabelecidos. O critério de processo crítico foi plenamente satisfeito, uma vez que a Cláusula Primeira demonstra que o objeto contratual consiste na prestação de serviços de atualização e suporte técnico da Suíte IBM Rational, integrando o ambiente de sistemas de TI do Banco. Por outro lado, o critério de informação sensível encontra-se em estado parcial, pois a Cláusula Décima Terceira trata do sigilo e da Política de Segurança da Informação sem detalhar explicitamente quais dados específicos são acessados. Os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado, visto que o texto contratual carece de evidências explícitas sobre privilégios de administrador, alocação de mão de obra dedicada com acesso direto a ativos ou ingresso físico em áreas críticas. Consequentemente, a decisão simbólica de criticidade baixa decorre da satisfação exclusiva do processo crítico sem a comprovação plena dos demais fatores de maior risco.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A avaliação neural complementar atua de forma estritamente auxiliar e não substitui a evidência formalmente fundamentada pelo motor simbólico. No âmbito da complementação, a análise semântica sobre os critérios avaliados confirmou que a Cláusula Décima Terceira traz disposições diretas sobre sigilo e segurança da informação, fortalecendo a compreensão do critério de informação sensível, enquanto os demais aspectos relativos ao acesso ativo de TI, acesso administrativo e acesso físico permaneceram indeterminados pela ausência de estipulações contratuais explícitas sobre privilégios de administrador, alocação de mão de obra dedicada a ativos críticos ou ingresso em áreas restritas. Dessa forma, embora o subsistema neural tenha atribuído um incremento métrico no grau de suporte, a manutenção desses critérios em estado inconclusivo preserva a classificação final inalterada em criticidade baixa, uma vez que as evidências suplementares não foram suficientes para elevar o perfil de risco do contrato.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 44/2022
+FILE: KOA_UFO_contrato_ocs_044_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 44/2022 resulta na decisão de criticidade baixa. O único critério estabelecido com evidência parcial é a informação sensível, fundamentado nas obrigações de sigilo e na menção à LGPD na Cláusula Décima e Décima Segunda, embora a especificação técnica detalhada não esteja presente para certificar o acesso direto a dados sensíveis ou confidenciais. Os demais critérios, referentes ao processo crítico, acesso ativo de TI, acesso administrativo e acesso físico, permanecem em estado indeterminado, pois as cláusulas sobre a aquisição de licenças do SAP Identity Management e suporte técnico não trazem evidências explícitas sobre a sustentação de processos críticos, alocação em ativos de TI do BNDES, concessão de privilégios administrativos ou acesso físico a áreas críticas. Como nenhum critério foi plenamente satisfeito e a regra aplicável determina o nível mínimo diante da ausência de confirmações de alta criticidade, a conclusão formal estabelece a criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de complementação neural analisou os critérios do contrato OCS 44/2022 identificando suporte semântico adicional, especialmente quanto à presença de obrigações de sigilo e LGPD, ao envolvimento de plataforma de identidade (SAP IdM) com suporte técnico e à menção a normas de segurança das dependências do BNDES. Contudo, é fundamental ressaltar que esse suporte neural é estritamente complementar e não equivale à evidência formal rigidamente requerida pela primeira etapa simbólica. Embora a análise neural aponte afinidades semânticas nesses pontos, ela respeita os limites epistêmicos e mantém inalterados os estados formais inconclusivos para os demais quesitos, preservando a separação entre a avaliação formal e a interpretação. Como resultado dessa ponderação, a recomendação neuro-simbólica final mantém a mesma criticidade baixa estabelecida pelo raciocínio simbólico original, uma vez que as inferências neurais adicionais atuam apenas como refinamento contextual sem alterar o patamar de decisão formal.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 46/2021
+FILE: KOA_UFO_contrato_ocs_046_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 46/2021 resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras de decisão formal e da análise dos critérios de criticidade. O critério de informação sensível encontra-se no estado de contradição, fundamentado pela Cláusula Décima Terceira, Inciso II, que proíbe o acesso a informações sigilosas sem autorização prévia por escrito. O critério de processo crítico permanece parcial, pois a Cláusula Primeira aborda apenas atualização de software e suporte técnico para aplicativos HCL Domino e Notes, sem evidência explícita de suporte a um sistema de TI crítico principal. O acesso ativo de TI permanece indeterminado pela falta de evidências contratuais específicas. O acesso administrativo apresenta-se em contradição, pois o escopo restringe-se a suporte técnico sem privilégios administrativos. Por fim, o acesso físico permanece parcial, uma vez que a Cláusula Décima Primeira menciona normas de segurança nas dependências, mas sem especificar acesso a áreas com ativos críticos de TI. Nenhum critério foi plenamente satisfeito, determinando o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural à análise formal, a avaliação semântica examinou três critérios específicos do contrato sem alterar o patamar de criticidade baixa definido symbolicamente. No crit_002, a camada neural identificou que os aplicativos HCL Domino e Notes atuam como plataformas corporativas centrais, oferecendo suporte interpretativo de que o escopo atende a processos críticos. No crit_003, o estado indeterminado manteve-se inalterado por falta de evidências inequívocas sobre acesso ativo a ativos de TI críticos. Já no crit_005, constatou-se que o objeto restrito a suporte de software e a proibição de subcontratação contradizem a existência de acesso físico efetivo a áreas críticas. Conforme a restrição epistêmica, esse suporte neural é estritamente complementar e não substitui a evidência formal, preservando integralmente a decisão de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 46/2024
+FILE: KOA_UFO_contrato_ocs_046_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE ALTA
+
+A avaliação do contrato OCS 46/2024 resulta na decisão simbólica de CRITICIDADE ALTA. Esta conclusão decorre da satisfação plena de quatro critérios formais essenciais. A evidência estabelece o critério de informação sensível, fundamentado na Cláusula Décima Terceira, que regula o acesso a dados sigilosos do BNDES. O processo crítico foi plenamente estabelecido pela Cláusula Primeira, que estipula serviços em nuvem para gerenciamento de APIs, suporte e integração. O acesso ativo de TI restou plenamente satisfeito pelo suporte e monitoramento da infraestrutura. O acesso administrativo também foi estabelecido pela sustentação técnica e administração da plataforma. Por outro lado, o acesso físico permanece parcial, uma vez que o contrato foca em solução em nuvem e suporte remoto, sem detalhar o acesso físico direto às instalações. Conforme as regras executáveis, a combinação dos critérios satisfeitos, especialmente a informação sensível e o acesso administrativo, determina o nível vencedor de criticidade alta.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+Como complemento neuro-simbólico, a avaliação neural atuou especificamente sobre o critério de acesso físico, analisando o escopo de serviços em nuvem (SaaS) e suporte remoto previstos contratualmente. A análise semântica indicou que o texto não apresenta evidências textuais explícitas sobre o acesso físico de colaboradores às instalações do Banco ou a áreas de ativos críticos, mantendo este critério em estado indeterminado, sem fornecer suporte complementar suficiente para alterar sua conformidade formal. Cabe ressaltar que este suporte neural tem caráter estritamente complementar e não equivale a uma evidência formalmente fundamentada pelo motor simbólico. Como o resultado dessa verificação semântica não modificou o panorama dos critérios, a recomendação neuro-symbolic permanece inalterada, mantendo a decisão de criticidade alta já estabelecida pelo núcleo simbólico devido à plena satisfação dos demais critérios formais essenciais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 48/2022
+FILE: KOA_UFO_contrato_ocs_048_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 48/2022 resulta na decisão simbólica de criticidade baixa. A conclusão decorre da aplicação das regras executáveis sobre o estado formal dos critérios analisados. O critério de processo crítico foi plenamente estabelecido, pois a evidência demonstra explicitamente que o objeto consiste na prestação continuada de serviços de atualização e suporte técnico para a solução integrada ETL do BNDES. Por outro lado, o critério de informação sensível encontra-se em estado parcial, fundamentado nas cláusulas que estabelecem regras de sigilo, proteção de dados pessoais e obrigações de acesso a informações sigilosas. Ademais, os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem indeterminados, pois as menções contratuais são genéricas e insuficientes para confirmar a alocação de mão de obra com acessos privilegiados ou físicos a instalações críticas. Assim, a decisão de criticidade baixa segue diretamente da satisfação do critério de processo crítico e da ausência de evidências conclusivas para elevações de nível.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Em caráter complementar e sem alterar o estado formal das evidências simbólicas, a análise neural acrescenta suporte semântico aos critérios avaliados no contrato OCS 48/2022. Especificamente, a interpretação semântica das cláusulas contratuais valida as obrigações de sigilo e proteção de dados e infere, a partir do escopo de sustentação da solução ETL, o envolvimento com ativos de TI essenciais. Embora os critérios de acesso administrativo e físico permaneçam formalmente indeterminados por falta de detalhamento textual explícito, o reconhecimento neural de padrões críticos eleva o índice de granularidade de risco. Essa leitura ampliada resulta em uma recomendação neuro-simbólica de criticidade média, divergindo da decisão estritamente simbólica de criticidade baixa, sendo impulsionada pelo suporte semântico atribuído ao critério de acesso ativo de TI e à consolidação dos requisitos de informação sensível.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 50/2021
+FILE: KOA_UFO_contrato_ocs_050_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 50/2021, focada na dimensão de criticidade, resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras de inferência sobre os estados formais dos critérios analisados. O critério de processo crítico (crit_002) foi plenamente satisfeito (S), pois o objeto contratual envolve a prestação de serviço de suporte técnico ao software de integração IBM Sterling ConnectDirect, suportando sistemas principais e infraestrutura de transferência de dados. Por outro lado, o critério de informação sensível (crit_001) permanece em estado parcial (P), uma vez que a Cláusula Décima Segunda estabelece uma obrigação de sigilo condicional, indicando potencial acesso sem confirmação categórica definitiva. Ademais, os critérios de acesso ativo de TI (crit_003), acesso administrativo (crit_004) e acesso físico (crit_005) permanecem indeterminados (U) devido à ausência de menção explícita no texto contratual sobre alocação de colaboradores, privilégios administrativos ou acesso físico a áreas críticas. Conforme as regras executáveis, a satisfação isolada de crit_002, combinada com os demais estados parciais e indeterminados, conduz diretamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora o suporte semântico da Cláusula Décima Segunda em relação ao acesso condicional a dados sigilosos, além de registrar que o suporte técnico ao software IBM Sterling ConnectDirect envolve o contexto operacional, embora os critérios de acesso ativo de TI, administrativo e físico permaneçam indeterminados devido à ausência de menção explícita no texto contratual sobre alocação de colaboradores e privilégios. É importante ressaltar que este suporte neural possui caráter estritamente complementar e não equivale a uma evidência formalmente garantida pelo sistema simbólico. Como a recomendação neuro-simbólica manteve-se em criticidade baixa com uma variação numérica que não altera a regra de decisão, o resultado final permanece inalterado em relação à conclusão simbólica inicial, uma vez que a confirmação semântica parcial das evidências não atinge o limiar necessário para modificar o estado formal dos critérios indeterminados.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 51/2024
+FILE: KOA_UFO_contrato_ocs_051_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 51/2024 resulta na decisão simbólica de CRITICIDADE BAIXA. Essa conclusão decorre da aplicação das regras executáveis e da análise formal dos critérios estabelecidos. Os critérios de informação sensível e de processo crítico encontram-se no estado parcial, pois, embora o contrato preveja regras de sigilo e a prestação de serviços de emissão de certificados digitais SSL para servidores web, as exigências dependem de controle específico e o texto não especifica o suporte direto a processos de negócios críticos. Por sua vez, os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem no estado indeterminado, uma vez que o artefato contratual não apresenta menções explícitas sobre alocação de mão de obra nas dependências, concessão de privilégios de administração ou acesso físico a áreas sensíveis. Como nenhum critério foi integralmente satisfeito, a inferência simbólica formal valida a classificação de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de complementação neural analisou semanticamente o contrato e validou de forma complementar as obrigações de sigilo e a emissão de certificados SSL para servidores web, identificando que tais certificados sustentam a infraestrutura tecnológica, embora mantendo indeterminados os critérios de mão de obra nas dependências, acesso administrativo e acesso físico por ausência de menção contratual explícita. Essa validação neural tem caráter estritamente complementar e não equivale a evidências formais de solo simbólico. Como o resultado consolidado manteve a recomendação em criticidade baixa, alinhada à decisão simbólica original, a complementação neural não altera a conclusão inicial, visto que os critérios remanescentes continuam insuficientes para elevar o patamar de risco do contrato.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 58/2024
+FILE: KOA_UFO_contrato_ocs_058_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 58/2024 resulta na decisão simbólica de criticidade baixa. Esta conclusão decorre formalmente da análise dos critérios estabelecidos. O critério de informação sensível foi plenamente satisfeito, uma vez que as cláusulas décima terceira e décima quarta regulam o sigilo de informações e a proteção de dados pessoais. O critério de processo crítico também foi satisfeito, pois o objeto contratual abrange a prestação de serviços de subscrição para operação, gerenciamento, auditoria e monitoramento de comunicação eletrônica no âmbito do Sistema Financeiro Nacional e do Sistema de Pagamentos Brasileiro. Em contrapartida, os critérios de acesso ativo de TI e acesso físico permanecem parciais, pois as menções às normas de segurança das instalações são genéricas e carecem de detalhamento sobre alocação de mão de obra e áreas críticas. O acesso administrativo permanece indeterminado pela ausência de menção expressa. Consequentemente, o preenchimento estrito dos critérios de informação sensível e processo crítico sustenta o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Como complemento neural à análise simbólica, destaca-se que esta avaliação possui caráter estritamente subsidiário e não substitui os critérios formais originais. A camada neural examinou três aspectos específicos do contrato OCS 58/2024. No que tange ao critério de acesso ativo de TI, a leitura semântica do objeto contratual, voltado à operação e monitoramento de comunicação eletrônica no Sistema Financeiro Nacional, apontou suporte para inferir interação com a infraestrutura tecnológica. Em contrapartida, o acesso administrativo permaneceu contradito pela ausência de privilégios internos, enquanto o acesso físico seguiu inconclusivo devido à generalidade das normas de segurança das dependências. A identificação de suporte neural no acesso ativo de TI elevou o escore de densidade global e sugeriu uma recomendação de criticidade média, divergindo da decisão simbólica inicial de criticidade baixa. Essa alteração decorre diretamente da reclassificação semântica do critério de acesso ativo de TI realizada pela camada neural.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 65/2021
+FILE: KOA_UFO_contrato_ocs_065_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 65/2021 quanto à dimensão de criticidade resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras executáveis sobre o estado dos critérios analisados. O critério relativo ao processo crítico foi plenamente estabelecido, pois a evidência demonstra que o objeto contratual apoia diretamente o processo de prevenção à lavagem de dinheiro e ao financiamento do terrorismo do Sistema BNDES. Por outro lado, o critério de informação sensível encontra-se em estado parcial, uma vez que a cláusula de sigilo aborda o acesso a dados confidenciais, mas sem detalhar o escopo exato sobre informações pessoais sensíveis. Adicionalmente, os critérios referentes ao acesso ativo de TI, acesso administrativo e acesso físico permanecem indeterminados devido à ausência de evidências explícitas nos artefatos contratuais. A decisão simbólica de criticidade baixa segue diretamente da satisfação do critério de processo crítico combinada com a falta de confirmação para os demais requisitos.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de processamento neural complementar examinou a semântica das cláusulas contratuais para refinar a leitura dos critérios, atuando de forma estritamente interpretativa e sem equivalência a evidências formais rígidas. Em relação à informação sensível, a análise neural identificou que a cláusula de sigilo estabelece regras abrangentes sobre dados confidenciais, embora os critérios de acesso ativo de TI, acesso administrativo e acesso físico tenham permanecido indeterminados devido à carência de menções explícitas sobre alocação de pessoal em áreas críticas ou privilégios de sistema nos artefatos. Como essa leitura complementar corrobora o panorama de ausência de confirmações robustas para os requisitos mais restritivos, a recomendação neuro-simbólica final mantém o patamar de criticidade baixa, indicando que o aporte neural não altera a conclusão simbólica pré-existente.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 77/2021
+FILE: KOA_UFO_contrato_ocs_077_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 77/2021 quanto à dimensão de criticidade resulta na decisão de CRITICIDADE BAIXA. Esta conclusão fundamenta-se na verificação formal dos critérios analisados no instrumento contratual. O critério de informação sensível encontra-se satisfeito, pois a Cláusula Décima Terceira estabelece regras detalhadas sobre sigilo e restrição de acesso a informações sigilosas. O critério de processo crítico também está satisfeito, uma vez que a Cláusula Primeira define o objeto como a prestação de serviços de subscrição de solução em nuvem para análise da Gestão da Continuidade de Negócios, suportando processos críticos. Por outro lado, o critério de acesso ativo de TI permanece parcial, pois o contrato não especifica a alocação de mão de obra direta com acesso a ativos. Os critérios de acesso administrativo e acesso físico encontram-se indeterminados devido à ausência de menções explícitas no texto. Conforme as regras executáveis, a satisfação desses critérios direciona para o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural à análise simbólica, examinou-se o escopo semântico dos critérios de acesso ativo de TI, acesso administrativo e acesso físico, constatando-se que a menção a serviços em nuvem e a obrigações genéricas de segurança não fornece evidências definitivas sobre a presença de mão de obra com privilégios administrativos ou trânsito físico em áreas críticas. Essa camada de suporte neural é estritamente complementar e não substitui a evidência formalmente fundamentada pelo sistema simbólico. Como os estados formais desses critérios mantiveram-se inalterados como parciais ou indeterminados, a avaliação neural confirma integralmente o resultado obtido na primeira etapa. Dessa forma, a recomendação neuro-simbólica preserva a decisão de criticidade baixa, uma vez que a análise semântica complementar não encontrou elementos suficientes para alterar o enquadramento do contrato OCS 77/2021.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 99/2021
+FILE: KOA_UFO_contrato_ocs_099_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 99/2021 quanto à dimensão de criticidade resulta na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis sobre os critérios avaliados, onde nenhum critério foi plenamente satisfeito. Os critérios de informação sensível e processo crítico encontram-se em estado parcial, pois há menções a sigilo de dados e ao fornecimento de software WSO2 Open Banking, mas o escopo exato e o suporte a sistemas principais dependem de um Termo de Referência ausente. Por sua vez, os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado devido à ausência de menção explícita no texto contratual sobre alocação de colaboradores com acesso direto, privilégios administrativos ou entrada em áreas críticas do Banco. Como não há critérios formalmente satisfeitos, a regra de inferência estabelece o nível correspondente de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar oferece suporte semântico adicional aos critérios de informação sensível e processo crítico do contrato OCS 99/2021, identificando evidências textuais explícitas sobre obrigações de sigilo, proteção de dados e a natureza do software WSO2 Open Banking. Contudo, cabe ressaltar que esse suporte neural é estritamente complementar e não equivale a uma evidência formalmente comprovada pelas regras simbólicas. Enquanto os critérios de acesso ativo de TI, acesso administrativo e acesso físico permaneceram indeterminados pela ausência de menção explícita no texto principal, a elevação do grau de atendimento semântico nesses dois primeiros pontos elevou o índice de densidade de suporte de zero para zero vírgula quatro. Apesar desse acréscimo interpretativo, a recomendação neuro-symbolic resultante permanece alinhada à decisão simbólica de criticidade baixa, uma vez que o somatório dos critérios satisfeitos não atinge o limiar necessário para alterar a classificação de risco do contrato.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 105/2022
+FILE: KOA_UFO_contrato_ocs_105_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 105/2022 estabelece o nível de criticidade como CRITICIDADE MÉDIA. Os critérios de processo crítico, acesso ativo de TI e acesso administrativo encontram-se plenamente satisfeitos, pois a Cláusula Primeira e as disposições de suporte SAP ActiveAttention evidenciam a sustentação de sistemas corporativos centrais e a concessão de acessos profundos a ativos tecnológicos do Banco. Por outro lado, os critérios de informação sensível e acesso físico permanecem em estado parcial ou não conclusivo. Há menção a regras de sigilo e normas de segurança das dependências, mas com indicações de que o tratamento de dados pessoais e o acesso permanente a áreas físicas restritas são condicionais ou não detalhados. A decisão simbólica decorre diretamente da aplicação das regras executáveis sobre os critérios integralmente satisfeitos, combinados com as premissas parciais registradas.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+A análise neural complementar concentrou-se nos critérios de informação sensível e de acesso físico, avaliando evidências textuais não plenamente resolvidas na etapa formal. Conforme a Cláusula Décima Terceira, identificou-se a imposição de regras estritas de sigilo e limitações de acesso a dados confidenciais, enquanto a Cláusula Décima Primeira evidenciou a previsibilidade de circulação de colaboradores nas dependências físicas sob normas de segurança do Banco. É importante ressaltar que este suporte neural possui caráter estritamente complementar e não substitui a evidência simbólica formalmente estabelecida. Contudo, ao reconhecer semanticamente o preenchimento desses pontos anteriormente inconclusivos, a camada neural sugere uma elevação do patamar para criticidade crítica, sendo esta divergência diretamente impulsionada pela confirmação semântica dos critérios de informação sensível e acesso físico em conjunto com os demais elementos da contratação.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 112/2021
+FILE: KOA_UFO_contrato_ocs_112_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 112/2021, a avaliação simbólica resultou na decisão de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis e dos estados formais estabelecidos para os critérios analisados. O critério de processo crítico foi estabelecido de forma plena como satisfeito, evidenciado pela prestação de serviço de comunicação de dados dedicado e exclusivo à rede Bloomberg, suportando processos de comunicação essenciais. Em contraste, os critérios de acesso administrativo foram explicitamente considerados contrariamente a privilégios de administração, enquanto o critério de informação sensível permaneceu parcial, pois o objeto principal não foca primariamente no acesso a bases sigilosas. Adicionalmente, os critérios de acesso ativo de TI e acesso físico permaneceram indeterminados, uma vez que o contrato prevê instalação de infraestrutura sem detalhar alocação permanente de pessoal ou acesso a áreas críticas. Assim, a decisão de criticidade baixa decorre estritamente da satisfação isolada do processo crítico frente aos demais estados parciais, indeterminados ou contrários.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural, ressalta-se que a análise semântica das cláusulas contratuais encontrou evidências textuais indicando obrigações de sigilo e proteção de dados, o que corrobora semanticamente o critério de informação sensível, embora os critérios de acesso ativo de TI e acesso físico tenham permanecido inconclusivos devido à restrição do objeto à infraestrutura de comunicação de dados sem detalhamento de alocação de pessoal em áreas críticas. Essa camada de suporte neural é estritamente complementar e não substitui a evidência formalmente fundamentada da avaliação simbólica. Como a recomendação neuro-simbólica manteve o mesmo patamar da decisão original de criticidade baixa, conclui-se que os acréscimos interpretativos do componente neural não foram suficientes para alterar o enquadramento de criticidade estabelecido pelas regras formais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 113/2021
+FILE: KOA_UFO_contrato_ocs_113_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação da criticidade do contrato OCS 113/2021 resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da análise formal dos critérios estabelecidos pelas regras executáveis do sistema. O objeto contratual refere-se exclusivamente à prestação de serviço de comunicação de dados por meio de link dedicado e exclusivo para a Agência de Notícias Bloomberg, o que estabelece o atendimento satisfatório e o afastamento de criticidade para o critério de processo crítico, bem como para os critérios de acesso ativo de TI e acesso administrativo, uma vez que não há previsão de suporte a processos críticos, alocação de mão de obra com acesso a ativos de TI ou concessão de privilégios administrativos. Por outro lado, os critérios de informação sensível e acesso físico encontram-se em estado parcial. A evidência para informação sensível aponta apenas previsões genéricas de confidencialidade caso haja acesso futuro, e a evidência para acesso físico menciona normas de segurança e implantação de infraestrutura sem caracterizar acesso regular a áreas críticas. Conforme as regras aplicáveis, a ausência de critérios integralmente satisfeitos e a natureza dos elementos verificados determinam formalmente o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Complementarmente à análise simbólica, a camada neural identificou suporte semântico adicional nos critérios de informação sensível e acesso físico do contrato OCS 113/2021. As cláusulas contratuais de sigilo e proteção de dados estabelecem obrigações específicas para hipóteses de acesso a informações sigilosas, assim como as normas de segurança preveem o controle de identificação e acessos físicos de profissionais nas dependências do BNDES. É importante ressaltar que este suporte neural possui caráter puramente complementar e não equivale à evidência formalmente fundamentada pelas regras executáveis. Como o acréscimo desse respaldo semântico não altera a matriz de decisão preestabelecida para os demais elementos contratuais, a recomendação neuro-simbólica final permanece inalterada em nível de criticidade baixa, corroborando a conclusão simbólica original sem substituí-la.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 115/2021
+FILE: KOA_UFO_contrato_ocs_115_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 115/2021, a avaliação da dimensão de criticidade resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. O critério de processo crítico foi plenamente satisfeito (S), pois o objeto contratual envolve a prestação de serviços de suporte técnico e manutenção de comutadores SAN, que compõem a infraestrutura de armazenamento e sistemas principais de TI do Banco. Por outro lado, o critério de informação sensível foi atendido apenas parcialmente (P), uma vez que as cláusulas de sigilo e proteção de dados estabelecem regras para evitar acessos não autorizados e tratar dados pessoais, sem configurar o enquadramento total exigido. Os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem indeterminados (U), pois as evidências contratuais são genéricas ou omissas quanto ao detalhamento de mão de obra alocada, privilégios administrativos e acesso físico regular a instalações críticas. Conforme as regras de decisão, a presença de um critério satisfeito associada a critérios parciais e indeterminados fundamenta a classificação final de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora a robustez semântica das evidências do contrato OCS 115/2021, sem alterar a decisão simbólica de criticidade baixa. O suporte neural detalha que as cláusulas de sigilo e proteção de dados satisfazem o requisito de informação sensível com exigências de controle de acesso, enquanto os quesitos referentes ao acesso ativo de TI, acesso administrativo e acesso físico permanecem indeterminados pela ausência contratual de menção explícita sobre alocação física de pessoal, concessão de privilégios administrativos e frequência em áreas críticas. Salienta-se que este suporte neural possui caráter estritamente complementar e não substitui as evidências formais da primeira fase. Como o índice de grau de suporte neural apresentou leve variação positiva sem alterar o enquadramento dos critérios indeterminados, a recomendação neuro-simbólica final mantém-se inalterada em criticidade baixa, preservando a coerência com o modelo decisório simbólico vigente.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 118/2022
+FILE: KOA_UFO_contrato_ocs_118_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 118/2022 resulta na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis sobre os estados formais dos critérios analisados. O critério de informação sensível encontra-se em estado parcial, pois, embora existam cláusulas padrão de confidencialidade e proteção de dados, o objeto principal do contrato refere-se à prestação de serviço telefônico fixo comutado. Os critérios de processo crítico, acesso ativo de TI e acesso administrativo foram estabelecidos como contrários, uma vez que o escopo contratual restringe-se a serviços de telecomunicações, sem envolver sistemas centrais de TI ou alocação de mão de obra para processos críticos do banco. Por fim, o critério de acesso físico permanece parcial, pois menciona de forma genérica a observância às normas de segurança das dependências, sem especificar o acesso a áreas críticas de infraestrutura. Como nenhum critério crítico foi plenamente satisfeito, valida-se o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar reforça a decisão simbólica de criticidade baixa, mantendo o nível inalterado sem equivaler a uma evidência formalmente fundamentada. O suporte neural examinou o critério de informação sensível e constatou, com base no objeto de serviço telefônico e nas restrições da cláusula de sigilo, que o prestador não possui acesso rotineiro a dados protegidos, confirmando a semântica restritiva do escopo. Adicionalmente, a avaliação neural do critério de acesso físico corroborou a presença de obrigações genéricas de segurança nas dependências, sem evidenciar o ingresso em áreas de infraestrutura crítica. Como os refinamentos semânticos apenas corroboram o alinhamento do contrato às salvaguardas padrão de telecomunicações sem introduzir novos riscos ou critérios desfavoráveis, a recomendação neuro-symbolic permanece alinhada à conclusão simbólica inicial de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 120/2020
+FILE: KOA_UFO_contrato_ocs_120_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 120/2020 no âmbito da dimensão de criticidade resulta na decisão simbólica de CRITICIDADE BAIXA. Essa conclusão decorre diretamente dos estados formais atribuídos aos critérios analisados. O critério de informação sensível encontra-se em estado parcial (P), fundamentado por cláusula de sigilo formulada como possibilidade condicional de acesso, sem constituir escopo definitivo confirmado. Por outro lado, os critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico encontram-se plenamente estabelecidos em estado contrário (C), comprovados por evidências explícitas de que o objeto contratual restringe-se exclusivamente à aquisição de licenças de uso de software, sem envolver alocação de mão de obra, suporte a processos críticos, acesso a ativos de TI ou acesso físico a instalações do Banco. Assim, a ausência de critérios satisfeitos e a confirmação de exclusão dos riscos operacionais determinam a regra para o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora o estado formal do critério de informação sensível, identificando na Cláusula Décima Primeira a obrigação de sigilo caso o contratado tenha acesso a dados protegidos, o que valida de forma subsidiária o estado parcial já computado pelo motor simbólico. Essa verificação neural tem caráter estritamente complementar e não possui equivalência com a evidência formalmente fundamentada pelo sistema simbólico. Como a ponderação dessa camada adicional confirma exatamente a premissa anterior sem introduzir novos fatos ou alterar os demais critérios de exclusão de riscos operacionais, o patamar final permanece inalterado, mantendo integralmente a recomendação neuro-simbólica alinhada à decisão simbólica original de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 132/2023
+FILE: KOA_UFO_contrato_ocs_132_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 132/2023 resulta na decisão simbólica de criticidade baixa. O único critério formalmente estabelecido é o processo crítico (crit_002), cuja evidência na Cláusula Primeira define o objeto como prestação de serviços de subscrição para atualização e suporte técnico da solução de filtro de conteúdo web McAfee Web Gateway, suportando a segurança e o fluxo de rede da instituição. Por outro lado, os critérios de informação sensível (crit_001), acesso ativo de TI (crit_003) e acesso administrativo (crit_004) permanecem em estado parcial (P), pois o contrato prevê regras de sigilo e suporte a ativos de segurança, mas sem evidência direta de acesso incondicional ou detalhamento de mão de obra física permanente. O critério de acesso físico (crit_005) permanece desconhecido ou não avaliado (U) por falta de especificação no texto. Conforme as regras executáveis, a presença exclusiva do critério estabelecido de processo crítico determina a conclusão por criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+Enquanto a decisão simbólica aponta criticidade baixa, a avaliação neural complementar sugere uma recomendação de criticidade alta, servindo como suporte analítico sem equivalência a evidências formais consolidadas. A análise semântica identifica que, embora o escopo envolva suporte a software, as Cláusulas Décima Segunda e Décima Terceira regulam o tratamento de dados e informações sensíveis (crit_001), enquanto a natureza da solução de segurança McAfee Web Gateway pressupõe prerrogativas de configuração e controle equivalentes a acesso administrativo (crit_004). Contudo, os critérios de acesso ativo de TI (crit_003) e de acesso físico (crit_005) permanecem indeterminados por falta de evidências conclusivas sobre alocação física permanente nas dependências da instituição. Dessa forma, a divergência para criticidade alta decorre do reconhecimento neural de salvaguardas de sigilo e de privilégios operacionais inerentes ao suporte técnico crítico, que enriquecem a leitura contratual sem alterar os estados formais originais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 136/2020
+FILE: KOA_UFO_contrato_ocs_136_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 136/2020, a avaliação da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras de decisão formal e da análise dos critérios estabelecidos. O critério de acesso físico foi formalmente satisfeito (S), pois o contrato prevê expressamente a execução de suporte técnico presencial e a alocação de profissionais nas dependências do BNDES, conforme as normas de segurança. Por outro lado, os critérios de informação sensível, processo crítico e acesso ativo de ti encontram-se em estado parcial (P), uma vez que há menção a obrigações de sigilo, termos de confidencialidade e suporte técnico a soluções de TIC, mas sem detalhamento explícito de dados sensíveis ou suporte a processos críticos. O critério de acesso administrativo permanece em estado indeterminado (U) pela ausência de menção explícita a privilégios administrativos. Assim, a decisão de criticidade baixa segue estritamente a configuração dos estados formais apurados.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Como complemento neuro-simbólico, a camada neural analisou as evidências textuais das cláusulas contratuais, oferecendo suporte semântico que não substitui a evidência formalmente fundamentada. A análise identificou que as disposições sobre sigilo e termos de confidencialidade (Cláusula Décima Quarta), somadas à prestação continuada de suporte técnico e operação de Service Desk descrita na Cláusula Primeira, preenchem semanticamente os critérios de informação sensível, processo crítico e acesso ativo de TI, enquanto o acesso administrativo permaneceu indeterminado pela ausência de menção explícita. Essa interpretação aprofundada dos critérios de suporte técnico e das regras de sigilo eleva o grau de criticidade de baixa para média. Portanto, a recomendação neuro-symbolic difere da decisão simbólica estrita em virtude do reconhecimento semântico dessas obrigações contratuais específicas relativas à segurança da informação e à operação de ativos tecnológicos.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 147/2022
+FILE: KOA_UFO_contrato_ocs_147_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 147/2022, focada na dimensão de criticidade, resultou na decisão simbólica de CRITICIDADE MÉDIA. Esta conclusão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. O critério de processo crítico e o critério de acesso ativo de TI foram formalmente estabelecidos como satisfeitos, com base em evidências textuais que comprovam o suporte a serviços de infraestrutura e comunicação essenciais, bem como obrigações para colaboradores alocados respeitarem políticas de segurança em ativos de tecnologia. Por outro lado, os critérios de informação sensível, acesso administrativo e acesso físico foram preenchidos apenas parcialmente, refletindo salvaguardas, restrições e vedações de acesso que permanecem condicionais ou limitadas. Com base na satisfação do critério de acesso ativo de TI e nos demais estados apurados, as regras de inferência determinaram o nível correspondente de criticidade média para o contrato.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Complementarmente à decisão simbólica, a análise neural refinou a interpretação semântica dos critérios de informação sensível, acesso administrativo e acesso físico do contrato OCS 147/2022, baseando-se nas cláusulas de sigilo, proteção de dados, vedações de engenharia reversa e normas de segurança para prestação de serviços nas dependências do Banco. Cabe destacar que este suporte neural é estritamente complementar e não equivale à evidência formalmente fundamentada pelo motor simbólico. Embora a camada neural tenha apontado nuances adicionais nas avaliações desses critérios, o grau de adequação global não foi alterado de forma a divergir da inferência primária. Portanto, a recomendação neuro-symbolic mantém-se inalterada em criticidade média, uma vez que a leitura semântica detalhada corrobora o panorama de salvaguardas e restrições já contemplado pelas regras executáveis do sistema formal.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 150/2020
+FILE: KOA_UFO_contrato_ocs_150_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 150/2020 resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis e dos estados formais atribuídos aos critérios analisados. O critério de processo crítico foi formalmente estabelecido como satisfeito, uma vez que a Cláusula Primeira indica a contratação de subscrição de serviços de atualização e suporte para o Red Hat Enterprise Linux. Em contraste, os critérios de informação sensível e acesso ativo de TI permanecem em estado parcial, pois a Cláusula Décima Terceira aborda o sigilo de informações de forma genérica e o texto não detalha a alocação de mão de obra com acesso direto a ativos internos. O acesso administrativo foi considerado contrário, pois o objeto cinge-se a suporte de software sem previsão de privilégios administrativos. O acesso físico permaneceu indeterminado devido à ausência total de evidências no texto contratual. Assim, com apenas um critério satisfeito e na ausência de elementos para níveis superiores, a decisão de criticidade baixa segue diretamente das regras do sistema.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento interpretativo puramente neural, que não substitui nem possui a equivalência das evidências formais da primeira fase, a análise semântica do contrato OCS 150/2020 avaliou os critérios de informação sensível, acesso ativo de TI e acesso físico. A Cláusula Décima Terceira foi interpretada neuralmente como favorável ao tratamento de informações protegidas, enquanto o objeto contratual de suporte ao Red Hat Enterprise Linux e a ausência total de menções mantiveram os demais aspectos como indeterminados ou insuficientes. Embora o índice de grau de suporte tenha apresentado uma variação incremental, essa leitura interpretativa suplementar não altera o patamar de criticidade, mantendo intacta a decisão simbólica original de criticidade baixa, uma vez que as evidências textuais continuam indiretas ou ausentes para configurar níveis superiores de risco.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 150/2022
+FILE: KOA_UFO_contrato_ocs_150_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 150/2022 estabelece a decisão simbólica de CRITICIDADE MÉDIA, fundamentada pelas regras e evidências dos critérios analisados. O critério de processo crítico foi plenamente atendido, pois a Cláusula Primeira indica o suporte a redes de núcleo e distribuição. O acesso ativo de TI também foi plenamente estabelecido pelas Cláusulas Primeira e Décima, que demonstram a interação com a infraestrutura do Banco. Por sua vez, o critério de informação sensível encontra-se parcialmente atendido (P), respaldado pelas Cláusulas Décima Segunda e Décima Terceira, que tratam de sigilo e dados pessoais, embora o objeto principal seja o suporte técnico. Os critérios de acesso administrativo e acesso físico permanecem indeterminados (U), pois o contrato não especifica privilégios administrativos nem menções textuais explícitas ao acesso físico a instalações. Conforme as regras executáveis, a combinação dos critérios satisfeitos resulta na criticidade média.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A avaliação neural complementar atua estritamente de forma suplementar e não substitui a evidência formalmente fundamentada pelo motor simbólico. No que tange aos critérios analisados, a camada neural ratificou o estado parcialmente atendido de informações sensíveis, destacando que as cláusulas de sigilo e proteção de dados preveem salvaguardas para o manuseio de informações e dados pessoais. Ademais, confirmou a manutenção da indefinição quanto aos privilégios de acesso administrativo e ao acesso físico a instalações, ponderando que, embora o suporte técnico de redes possa implicar tais acessos, o texto contratual permanece omisso a respeito. Visto que as leituras neurais corroboraram os estados formais sem introduzir novos preceitos decisórios capazes de modificar as premissas lógicas, a recomendação neuro-simbólica mantém inalterada a conclusão de criticidade média estabelecida pelo sistema simbólico.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 159/2021
+FILE: KOA_UFO_contrato_ocs_159_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE ALTA
+
+A avaliação do contrato OCS 159/2021 resultou na decisão simbólica de CRITICIDADE ALTA. Esta conclusão decorre da satisfação formal de critérios essenciais estabelecidos nas regras de inferência. Os critérios de informação sensível, processo crítico, acesso ativo de TI e acesso administrativo foram plenamente estabelecidos como satisfeitos (estado S) pelas evidências contratuais. Especificamente, a Cláusula Décima Terceira e a Cláusula Décima Quarta fundamentam o sigilo e a proteção de dados, enquanto a Cláusula Primeira e a Cláusula Terceira estabelecem o suporte técnico especializado a sistemas centrais como IBM Content Manager e IBM MQ Series, envolvendo interações e privilégios técnicos e administrativos com os ativos do Banco. Por outro lado, o critério de acesso físico permanece indeterminado (estado U), pois o contrato não especifica explicitamente o acesso a instalações ou áreas críticas. Conforme as regras executáveis, a cumulação dos critérios satisfeitos, em especial o de informação sensível e o de acesso administrativo, determina diretamente o nível de criticidade alta.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+A análise neural complementar concentrou-se no critério de acesso físico (`crit_005`), avaliando a Cláusula Terceira sobre as condições de execução e o suporte técnico especializado, e concluiu que a evidência permanece insuficiente para confirmar ou refutar a alocação em instalações físicas do Banco. É importante ressaltar que este suporte neural tem caráter estritamente complementar e não equivale a uma evidência formalmente fundamentada pelo sistema simbólico. Como a avaliação neural manteve o estado indeterminado e o delta de grau de suporte foi nulo, a recomendação neuro-simbólica permaneceu inalterada em CRITICIDADE ALTA, preservando integralmente a decisão simbólica original. O complemento neural não altera a conclusão anterior porque a lacuna informacional identificada não impacta as regras de inferência já satisfeitas pelos demais critérios críticos.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 159/2022
+FILE: KOA_UFO_contrato_ocs_159_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 159/2022, a avaliação da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre do fato de que nenhum critério foi plenamente satisfeito pelas evidências analisadas. O critério de informação sensível encontra-se em estado parcial (P), uma vez que a Cláusula Décima Segunda e a Cláusula Décima Terceira preveem regras de sigilo e proteção de dados, mas focam em obrigações de controle e vedação sem estabelecer explicitamente um escopo positivo de acesso a dados sensíveis. Os demais critérios — processo crítico, acesso ativo de TI, acesso administrativo e acesso físico — permanecem em estado indeterminado (U). As evidências contratuais referentes ao objeto de suporte técnico para storages não detalham a criticidade dos processos suportados, a alocação de mão de obra, os privilégios administrativos ou o acesso físico a áreas restritas. Conforme as regras executáveis, a ausência de critérios satisfeitos conduz diretamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar corrobora a avaliação de que o contrato OCS 159/2022 mantém o nível de criticidade baixa, sem alterar a decisão simbólica original. Em caráter estritamente interpretativo e sem substituir a fundamentação formal, a leitura semântica sugere que as obrigações de sigilo e as previsões de exceção para acesso a informações sigilosas e dados da LGPD indicam um contato potencial com dados sensíveis, embora os critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico permaneçam formalmente indeterminados pela ausência de detalhamento no objeto de suporte técnico para storages. Como a ponderação neural e a simbólica convergem para o mesmo patamar de risco, o resultado final permanece inalterado em criticidade baixa, evidenciando que os elementos textuais complementares capturados não são suficientes para elevar o enquadramento do contrato nas regras formais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 160/2022
+FILE: KOA_UFO_contrato_ocs_160_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 160/2022, a avaliação da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Essa conclusão decorre diretamente do fato de que nenhum critério foi totalmente satisfeito pelas evidências disponíveis. O critério de informação sensível encontra-se em estado parcial, pois, embora o contrato preveja obrigações de sigilo e tratamento de dados nas cláusulas do décimo segundo e décimo terceiro termos, o objeto restringe-se ao suporte técnico a servidores, sem evidência direta de acesso contínuo a dados sensíveis. Os demais critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado, visto que as cláusulas contratuais citam o suporte a equipamentos servidores e normas de segurança para dependências, mas carecem de detalhamento sobre a criticidade dos ativos, privilégios administrativos ou acesso a áreas críticas. Conforme as regras executáveis, a ausência de critérios satisfeitos conduz estritamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neuro-simbólico estritamente complementar e sem alterar a verdade formal estabelecida, a análise semântica neural examinou os critérios do contrato OCS 160/2022 sem modificar o nível de criticidade baixa, mantendo o resultado inalterado. O suporte neural identificou maior robustez semântica nas evidências da Cláusula Décima Segunda e Décima Terceira sobre sigilo e proteção de dados, além de reconhecer na Cláusula Décima o controle de acesso físico às dependências do BNDES. Contudo, essa interpretação complementar não é equivalente a uma evidência formalmente fundamentada e esbarra na ausência do Termo de Referência, deixando os critérios de processo crítico, acesso ativo e privilégios administrativos ainda indeterminados. Como o acionamento de critérios mais exigentes depende de fatos contratuais adicionais não fornecidos, a recomendação final permanece alinhada à decisão simbólica original de criticidade baixa.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 167/2023
+FILE: KOA_UFO_contrato_ocs_167_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 167/2023 resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras executáveis e do estado dos critérios analisados. Os critérios de processo crítico, acesso ativo de TI e acesso administrativo foram plenamente estabelecidos como cumpridos, pois o objeto contratual consiste estritamente no fornecimento de computadores portáteis (notebooks), sem envolver suporte a processos críticos, alocação de mão de obra para acesso a ativos de TI ou privilégios de administração de sistemas. Por outro lado, os critérios de informação sensível e acesso físico permanecem em estado indeterminado. Embora existam menções a sigilo, proteção de dados e ao uso de crachás para eventuais serviços nas dependências, não há evidência explícita no contrato de efetivo acesso a informações sensíveis ou a áreas com ativos críticos de infraestrutura. Assim, a ausência de critérios plenamente satisfeitos e a natureza do fornecimento de bens fundamentam o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural estritamente interpretativo, que não possui o mesmo valor de evidência formalmente fundamentada da primeira etapa, destaca-se que as cláusulas 13, 14 e 11 do contrato preveem expressamente salvaguardas para o manuseio de informações sigilosas, proteção de dados e a necessidade de identificação por crachás e horários para serviços presenciais. Embora a camada neural aponte suporte semântico para esses critérios de informação sensível e acesso físico, tal constatação é estritamente complementar e não altera o estado formal indeterminado original. Como o nível de criticidade recomendado pelo sistema neuro-simbólico permanece idêntico à decisão simbólica de criticidade baixa, o complemento neural apenas matiza a interpretação contextual da presença dessas salvaguardas contratuais, sem força suficiente para modificar a conclusão de risco reduzido decorrente do fornecimento estrito de bens.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 173/2022
+FILE: KOA_UFO_contrato_ocs_173_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+O contrato OCS 173/2022 foi avaliado com a conclusão simbólica de CRITICIDADE MÉDIA. A decisão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. O critério de acesso ativo a TI foi plenamente satisfeito, conforme evidenciado pelas disposições sobre suporte remoto e revogação de perfis de acesso aos ativos do Banco. Em contraste, os critérios referentes a informação sensível e processo crítico permanecem em estado parcial, pois há menções a obrigações de sigilo e suporte a infraestrutura de sistema operacional, mas sem prever acesso irrestrito a dados sensíveis ou especificar o suporte a um processo crítico de negócio na acepção estrita. O acesso administrativo permanece indeterminado por falta de evidências explícitas sobre privilégios de administrador, enquanto o acesso físico está descartado por se tratar exclusivamente de serviços remotos. Conforme as regras aplicáveis, a satisfação do acesso ativo a TI fundamenta o nível de criticidade média atribuído.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Como complemento neural, ressalta-se que a análise semântica sobre os critérios avaliados tem caráter estritamente subsidiário e não substitui a evidência formal simbólica. No critério de informação sensível, a Cláusula Décima Terceira corrobora a regulação do sigilo no contexto de suporte remoto a licenças de Windows Server, enquanto os critérios de processo crítico e acesso administrativo mantêm-se indeterminados pela ausência de menção expressa a sistemas principais ou privilégios de administrador. Embora o índice de densidade global aponte uma variação numérica devido à interpretação textual, a recomendação neuro-simbólica final permanece em CRITICIDADE MÉDIA, exatamente igual à conclusão simbólica. Essa estabilidade ocorre porque a leitura neural apenas contextualiza as evidências existentes sem introduzir fatos novos ou alterar o estado formal pré-estabelecido dos critérios analisados, preservando integralmente o veredito emitido pela primeira etapa lógica.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 174/2022
+FILE: KOA_UFO_contrato_ocs_174_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 174/2022, a avaliação simbólica estabelece a decisão de CRITICIDADE BAIXA. A evidência demonstra que o critério de informação sensível foi satisfeito no estado (S), pois as Cláusulas Décima Segunda e Décima Terceira estabelecem regras, termos de confidencialidade e obrigações para o tratamento de informações confidenciais e dados pessoais. Por outro lado, os critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado (U), uma vez que o texto contratual carece de evidências explícitas detalhando o suporte a processos críticos da organização, alocação de pessoal acessando ativos de TI, concessão de acesso administrativo a recursos de TI ou acesso físico a áreas com ativos críticos de infraestrutura. Conforme as regras executáveis e a satisfação exclusiva do critério de informação sensível, a inferência simbólica resulta diretamente no nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural estritamente auxiliar e sem equivalência à evidência formal simbólica, a análise dos critérios indeterminados (`crit_002`, `crit_003`, `crit_004` e `crit_005`) corrobora o cenário contratual ao apontar que menções genéricas a serviços em nuvem, centrais de atendimento e normas de segurança nas dependências não especificam explicitamente o suporte a processos críticos, acessos ativos de TI, privilégios administrativos ou o ingresso em áreas físicas com ativos críticos de infraestrutura. Deste modo, a camada neural mantém tais critérios no estado indeterminado e preserva o grau de criticidade. Como a recomendação neuro-simbólica permanece alinhada à decisão simbólica de criticidade baixa, o cômputo geral de criticidade permanece inalterado, uma vez que a ausência de novas comprovações textuais diretas impede a elevação do nível de risco com base estritamente nas evidências disponíveis.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 179/2021
+FILE: KOA_UFO_contrato_ocs_179_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE CRÍTICA
+
+A avaliação do contrato OCS 179/2021 resultou na decisão simbólica de CRITICIDADE CRÍTICA. Esta conclusão decorre da satisfação integral de todos os critérios formais analisados, devidamente fundamentados pelas evidências contratuais. O critério de informação sensível foi plenamente estabelecido pelas Cláusulas Décima Terceira e Décima Nona, que impõem deveres de sigilo sobre informações sigilosas e dados pessoais. O processo crítico foi plenamente atendido pela Cláusula Primeira, visto que a aquisição de solução unificada de rede e plataforma de gerenciamento suporta a infraestrutura de TI do Banco. O acesso a ativos de TI e o acesso administrativo foram formalmente estabelecidos pelas previsões de gestão, configuração e administração dos ativos de rede. Por fim, o acesso físico restou plenamente estabelecido pela Cláusula Décima Primeira, que regula o cumprimento de normas de segurança nas dependências do BNDES. A aplicação das regras executáveis sobre esses critérios plenamente satisfeitos determina diretamente o nível máximo de criticidade.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+Como componente de suporte neural complementar, ressalto que esta análise atua de forma acessória e não substitui a evidência formalmente fundamentada pelo motor simbólico. O reexame neural não submeteu novos critérios a avaliações específicas, registrando um conjunto vazio de novas evidências neurais, de modo que o grau de garantia simbólico permaneceu inalterado, com variação nula. Consequentemente, a recomendação neuro-simbólica corrobora integralmente o patamar de criticidade máxima previamente apurado pelas regras executáveis, mantendo a decisão final inalterada.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 185/2020
+FILE: KOA_UFO_contrato_ocs_185_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação de criticidade do contrato OCS 185/2020 resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis sobre o estado formal dos critérios analisados. O critério de informação sensível foi plenamente estabelecido como satisfeito pela Cláusula Décima Segunda, que prevê expressamente o acesso a dados e documentos de natureza sigilosa decorrentes da execução contratual. Da mesma forma, o critério de acesso físico foi estabelecido como satisfeito pelas Cláusulas Primeira e Décima, que determinam a execução presencial e a prestação de serviços de instalação e manutenção nas instalações do Banco. Por outro lado, os critérios de processo crítico, acesso ativo de TI e acesso administrativo permanecem em estado indeterminado devido à ausência de evidências contratuais explícitas que comprovem tais ocorrências. Conforme as regras aplicáveis, a presença dos critérios satisfeitos estabelece o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar oferece uma perspectiva interpretativa adicional sobre o contrato OCS 185/2020, sem invalidar ou substituir a decisão simbólica formal. Com base no teor das cláusulas contratuais de videovigilância, monitoramento em tempo real e alocação de profissionais nas dependências, a camada neural identifica suporte semântico para o envolvimento de processos críticos e acesso ativo de TI, mantendo indeterminado o acesso administrativo. Cabe ressaltar que este suporte neural possui caráter estritamente complementar e não equivale a uma evidência formalmente estabelecida pelas regras executáveis. Enquanto a conclusão simbólica restringe-se à criticidade baixa com base apenas nos critérios formalmente satisfeitos, a recomendação neuro-simbólica aponta para uma criticidade média. Essa divergência decorre da inferência neural favorável aos critérios de processo crítico e acesso ativo de TI, que, embora permaneçam formalmente indeterminados, sugerem um escopo operacional mais amplo que o capturado estritamente pela literalidade das regras formais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 189/2022
+FILE: KOA_UFO_contrato_ocs_189_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal do contrato OCS 189/2022 resulta na decisão de criticidade baixa. Esta conclusão decorre do fato de que nenhum critério foi integralmente satisfeito pelas evidências contratuais analisadas. Os critérios de informação sensível e acesso físico encontram-se em estado parcial, pois a Cláusula Décima Segunda estabelece regras de sigilo e a Cláusula Décima menciona normas de segurança nas dependências do BNDES, mas ambas carecem de detalhamento sobre dados sensíveis e acesso a áreas críticas de TI. Paralelamente, os critérios de processo crítico, acesso ativo de TI e acesso administrativo permanecem em estado indeterminado. A Cláusula Primeira define apenas a prestação de Serviço Telefônico Fixo Comutado, sem evidências sobre suporte a processos críticos ou privilégios administrativos, enquanto a menção genérica à revogação de perfis não comprova alocação com acesso a ativos de TI essenciais. Conforme as regras executáveis, a ausência de critérios satisfeitos define a criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada de complementação neural analisou semanticamente o contrato OCS 189/2022, oferecendo suporte interpretativo adicional que, embora reforce a existência de obrigações de sigilo e proteção de dados no crit_001 e aponte contradição semântica no crit_004 quanto ao acesso administrativo, mantém inalterados os estados formais dos demais critérios e o panorama geral de criticidade. Esse suporte neural possui caráter estritamente complementar e não equivale a evidências formais computadas pelo motor simbólico. Como o índice de densidade global neurosimbólico apresentou uma leve variação sem alterar o enquadramento decisório, a recomendação final permanece alinhada à conclusão simbólica original de criticidade baixa. Os indícios textuais adicionais sobre telecomunicações, normas de segurança física e revogação de perfis não foram suficientes para transpor os critérios para estados plenamente satisfeitos, preservando a robustez da decisão formal deliberada.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 190/2020
+FILE: KOA_UFO_contrato_ocs_190_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para a avaliação do contrato OCS 190/2020, o critério de acesso administrativo foi estabelecido como cumprido, evidenciado pela ausência de previsão de privilégios administrativos aos recursos de TI do Banco. Em contraste, os critérios de informação sensível e de acesso físico permanecem em estado parcial, pois há previsões gerais sobre sigilo e manuseio de equipamentos nas instalações do BNDES, mas sem evidências conclusivas sobre acesso a dados sensíveis ou áreas críticas. Ademais, os critérios de processo crítico e de acesso ativo de TI encontram-se indeterminados, uma vez que o objeto contratual limita-se à prestação de serviços de comunicação de dados e acesso à Internet, sem suporte explícito a processos principais ou ativos críticos de TI. Conforme as regras de inferência aplicáveis, a ausência de critérios integralmente satisfeitos conduz diretamente à conclusão simbólica de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural estritamente interpretativo e sem equivalência a evidências formais, a análise semântica das cláusulas contratuais examinou aspectos específicos dos critérios de sigilo, processos, ativos de TI e instalações físicas. Verificou-se que a contratação de link dedicado de internet possui obrigações genéricas de confidencialidade sem manuseio direto de dados sensíveis, limita-se a serviços de telecomunicação sem suporte a processos críticos, não prevê alocação de pessoal com acesso a ativos internos de TI, e envolve intervenções físicas pontuais para remanejamento de circuitos nas instalações do BNDES. Cabe ressaltar que esse suporte neural é puramente complementar e não altera o estado formal pré-estabelecido dos critérios. Como a recomendação neuro-simbólica resultante manteve-se em criticidade baixa, idêntica à conclusão simbólica original, conclui-se que os elementos semânticos adicionais não fornecem base suficiente para modificar o patamar de criticidade estabelecido.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 195/2022
+FILE: KOA_UFO_contrato_ocs_195_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+No âmbito da avaliação da criticidade do contrato OCS 195/2022, a análise formal estabelece a decisão simbólica de CRITICIDADE MÉDIA. Os critérios de informação sensível, processo crítico e acesso ativo de TI foram formalmente satisfeitos com base nas evidências contratuais. Especificamente, a Cláusula Primeira e as cláusulas de sigilo estabelecem regras para o suporte técnico e a atualização do SGBD Microsoft SQL Server, além de tratarem de informações sigilosas e dados pessoais. Por outro lado, os critérios de acesso administrativo e acesso físico permanecem em estado não determinado devido à insuficiência de menções explícitas nas cláusulas contratuais sobre privilégios de administração direta ou acesso físico às instalações. Conforme as regras executáveis do sistema, a satisfação dos critérios estabelecidos conduz diretamente ao nível de criticidade média, fundamentado integralmente nas evidências parciais e confirmadas mapeadas nas disposições contratuais.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A camada de processamento neural atua de forma estritamente complementar para avaliar os critérios de acesso administrativo e acesso físico, ambos mantidos em estado inconclusivo nas disposições contratuais. A análise semântica adicional sobre o objeto de suporte técnico e atualização de SGBD Microsoft SQL Server não encontrou evidências textuais explícitas suficientes para confirmar ou refutar a concessão de privilégios de administração direta ou a necessidade de acesso físico a instalações e áreas críticas do Banco. Essa avaliação neural tem caráter suplementar e não possui equivalência com evidências formais de base estritamente simbólica, preservando inalterado o estado formal original desses pontos. Como os critérios positivos previamente satisfeitos já sustentam a classificação e as novas avaliações neurais mantiveram a indefinição dos demais quesitos sem apontar divergências factuais, o nível global de criticidade permanece inalterado em criticidade média, sem alteração na recomendação final do sistema.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 200/2020
+FILE: KOA_UFO_contrato_ocs_200_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 200/2020, a avaliação formal da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da análise das evidências contratuais em relação aos critérios estabelecidos. Os critérios referentes à informação sensível, ao processo crítico e ao acesso administrativo encontram-se em estado parcial. A Cláusula Décima Segunda prevê obrigações de sigilo e veda o acesso a informações sigilosas sem prévia autorização, e a Cláusula Primeira define o objeto como suporte técnico e manutenção da biblioteca de software EVO-SDK e aplicativo SDK-DESKTOP, mas sem evidências explícitas de acesso efetivo a dados específicos, suporte direto a processo crítico ou concessão de privilégios de administrador. Por sua vez, os critérios de acesso ativo de TI e de acesso físico permanecem em estado indeterminado, pois as normas gerais de segurança não especificam alocação de mão de obra física com acesso a ativos de TI críticos ou a áreas como CPD e salas de telecom. Como nenhum critério foi plenamente satisfeito, o conjunto de evidências parciais e indeterminadas conduz diretamente ao nível correspondente de criticidade baixa conforme as regras aplicáveis.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+De forma complementar e sem alterar o estado formal de verdade estabelecido, a camada neural analisou os critérios do contrato OCS 200/2020 e indicou suporte semântico para a regulação de informações sigilosas e para os serviços de suporte técnico de software, além de apontar potencial associação com acessos administrativos inerentes à manutenção de aplicativos. Enquanto a avaliação formal concluiu pela criticidade baixa devido a evidências parciais e indeterminadas, a inferência neuro-simbólica gerou uma recomendação divergente de criticidade alta. Essa mudança decorre do reconhecimento neural de que os critérios de informação sensível e de privilégios e acessos administrativos satisfazem as assinaturas semânticas para níveis elevados de criticidade, atuando como suporte interpretativo complementar que pondera a natureza técnica e as salvaguardas contratuais de forma mais abrangente, embora tal leitura não substitua nem invalide a fundamentação estritamente simbólica original.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 206/2020
+FILE: KOA_UFO_contrato_ocs_206_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 206/2020, a avaliação da dimensão de criticidade resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis com base no preenchimento dos critérios avaliados. O critério de informação sensível encontra-se parcialmente satisfeito, pois há menção genérica na Cláusula Décima Segunda sobre o sigilo de documentos e informações caso haja acesso, mas o objeto principal é a prestação de serviço de emissão de carimbo do tempo como autoridade certificadora, sem especificar manipulação ordinária de dados sensíveis. Os demais critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico foram estabelecidos como contrários ou não verificados, pois o objeto é executado de forma remota, sem suporte a processos críticos principais, sem alocação de mão de obra com acesso a ativos de TI, sem privilégios administrativos e sem acesso físico às áreas críticas do Banco. Com nenhum critério plenamente satisfeito e a ausência de elementos que elevem o risco, o nível de criticidade baixa é formalmente estabelecido.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural à análise formal, examinou-se semanticamente o critério de informação sensível, identificando-se nas Cláusulas Décima e Décima Segunda previsões expressas sobre o acesso e o tratamento obrigatório de dados e documentos sigilosos pelo contratado. Cabe ressaltar que este suporte neural possui caráter puramente complementar e não equivale a uma evidência formalmente validada pelo motor simbólico. Contudo, como essa interpretação contextual confirma o cenário já parcialmente contemplado na primeira etapa e os demais critérios de risco permaneceram inalterados, a recomendação neuro-simbólica final mantém-se alinhada à decisão simbólica original de criticidade baixa. Assim, a camada neural reforça a leitura das obrigações de sigilo sem, contudo, acumular evidências suficientes para elevar o patamar de criticidade do contrato OCS 206/2020.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 218/2023
+FILE: KOA_UFO_contrato_ocs_218_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação formal do contrato OCS 218/2023 estabelece o resultado de criticidade média com base nos critérios analisados. O critério de informação sensível encontra-se satisfeito, pois o contrato aborda regras de acesso a informações confidenciais e requisitos de segurança para dados organizacionais. O processo crítico também está satisfeito, visto que o objeto contratual abrange suporte técnico contínuo e manutenção evolutiva para a suíte BMC Remedy, que sustenta processos essenciais de gestão de serviços de TI. Além disso, o acesso ativo de TI é considerado satisfeito, pois a prestadora possui pessoal alocado que interage com sistemas e ativos de TI sob as políticas de segurança do BNDES. Em contrapartida, os critérios de acesso administrativo e acesso físico permanecem parciais ou indeterminados, uma vez que a documentação indica obrigações gerais de suporte e normas de dependências, mas carece de especificações técnicas definitivas sobre privilégios administrativos e áreas críticas. Conforme as regras de decisão executáveis, a satisfação desses critérios estabelece a classificação final de criticidade média.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+A análise neural complementar oferece suporte semântico adicional para os critérios de acesso administrativo e acesso físico do contrato OCS 218/2023, que possuíam estado formal parcial na conclusão simbólica. Com base na Cláusula Primeira, o suporte técnico contínuo e manutenção evolutiva da suíte BMC Remedy exigem, por implicações operacionais padrão, capacidades de administração de sistemas. Adicionalmente, as obrigações contratuais de cumprimento das normas de segurança das dependências e uso de crachás validam o acesso físico dos profissionais alocados. Cumpre ressaltar que este suporte neural é estritamente complementar e não possui equivalência com evidências formais fundamentadas. Enquanto a avaliação simbólica estabeleceu criticidade média devido ao caráter parcial inicial desses critérios, a recomendação neuro-simbólica aponta para criticidade crítica, sendo diretamente impulsionada pela confirmação semântica desses dois fatores que agora atendem aos requisitos de nível crítico conforme as regras executáveis.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 221/2021
+FILE: KOA_UFO_contrato_ocs_221_2021.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+Com base na avaliação do contrato OCS 221/2021 quanto à dimensão de criticidade, conclui-se pela emissão da decisão simbólica de CRITICIDADE MÉDIA. A análise formal demonstra que os critérios de informação sensível, processo crítico e acesso ativo de TI encontram-se plenamente satisfeitos, com evidências claras nas cláusulas contratuais relativas ao sigilo, proteção de dados, licenciamento de VMware e suporte a sistemas principais de virtualização e ativos de tecnologia da informação essenciais ao Banco. Por outro lado, o critério de acesso administrativo permanece em estado parcial, pois o texto não detalha explicitamente a concessão de privilégios de acesso administrativo direto. Além disso, o critério de acesso físico permanece em estado não determinado, visto que há apenas menção a regras gerais de segurança sem especificar a alocação de colaboradores em áreas críticas. A decisão simbólica decorre da aplicação das regras executáveis sobre os critérios formalmente estabelecidos.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+A camada de processamento neural atua de forma estritamente complementar, sem invalidar o resultado simbólico formal. Para o critério de acesso administrativo, avaliado formalmente como parcial, a análise neural pondera que a natureza técnica do suporte a plataformas VMware pressupõe logicamente a concessão de privilégios elevados de TI para a execução do escopo, elevando o grau de risco associado. Em contrapartida, no critério de acesso físico, mantido como não determinado, o componente neural reconhece que as menções genéricas a normas de segurança nas dependências não especificam a alocação de colaboradores em áreas críticas, permanecendo inconclusivo. Destaca-se que esse suporte neural heurístico não substitui nem equivale à evidência formal estrita exigida pelo sistema simbólico. Contudo, a ponderação sistêmica exercida sobre o acesso administrativo conduz a uma recomendação neuro-simbólica final de criticidade alta, divergindo da decisão simbólica original de criticidade média.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 225/2024
+FILE: KOA_UFO_contrato_ocs_225_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE ALTA
+
+A avaliação do contrato OCS 225/2024 resulta na decisão simbólica de CRITICIDADE ALTA. Esta conclusão decorre da satisfação formal de quatro critérios essenciais estabelecidos pelas evidências contratuais. O critério de informação sensível encontra-se satisfeito, pois as cláusulas décima terceira e décima quarta regulam o acesso a informações sigilosas e dados pessoais na plataforma de nuvem. O processo crítico foi plenamente estabelecido pela Cláusula Primeira, que define a prestação de serviços de plataforma analítica em nuvem. Os critérios de acesso ativo de TI e de acesso administrativo também foram satisfeitos, comprovados por previsões de gestão de recursos e perfis de acesso na nuvem. Em contrapartida, o acesso físico permanece no estado indeterminado, pois o contrato não especifica o acesso direto a instalações físicas do Banco. Conforme as regras executáveis de inferência, a combinação dos critérios satisfeitos estabelece a prevalência da criticidade alta.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+Como complemento neural à análise, ressalta-se que este suporte atua de forma estritamente complementar e não substitui nem equivale às evidências simbólicas formalmente fundamentadas. A avaliação neural concentrou-se no critério de acesso físico, que permaneceu em estado indeterminado, pois a análise semântica adicional do texto contratual e da ontologia aplicada não revelou evidências diretas sobre o acesso de colaboradores às instalações físicas do Banco. Visto que a variação na pontuação de governança e segurança foi nula e o critério sob escrutínio manteve sua indefinição lógica devido à ausência de menção expressa no instrumento, o complemento neural não altera a conclusão simbólica inicial. Portanto, a recomendação neuro-symbolic corrobora integralmente o patamar de criticidade alta já estabelecido pelo motor simbólico, sem modificações no nível de risco final do contrato OCS 225/2024.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 231/2020
+FILE: KOA_UFO_contrato_ocs_231_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 231/2020, a avaliação da dimensão de criticidade resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis e do estado formal dos critérios analisados. Os critérios de informação sensível e processo crítico encontram-se no estado parcial, pois, embora o contrato preveja regras de sigilo e serviços de suporte técnico ao software Microstrategy, as evidências indicam apenas obrigações genéricas sem detalhar o acesso efetivo a dados sigilosos ou o suporte a sistemas principais. Adicionalmente, os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem no estado indefinido, visto que as evidências são omissas ou insuficientes quanto à alocação de mão de obra nas dependências do BNDES, concessão de privilégios administrativos e acesso a instalações críticas. Como nenhum critério foi integralmente satisfeito, a ausência de evidências conclusivas consolida a decisão por criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento neural à análise formal, destaca-se que a leitura semântica identificou suporte em obrigações de sigilo e na natureza do software Microstrategy associado a BI, embora tais elementos permaneçam semanticamente parciais e não equivalham a evidências formais consolidadas. Para os demais critérios, o exame neural confirmou a indefinição quanto ao acesso ativo de TI, privilégios administrativos e instalações físicas, visto que as menções contratuais são genéricas e omissas quanto à alocação efetiva de mão de obra ou execução nessas áreas. É importante ressaltar que este suporte neural possui caráter estritamente complementar e não substitui a evidência formalmente fundamentada pelo sistema simbólico. Desse modo, o acréscimo de densidade informacional não altera o nível de criticidade global, mantendo inalterada a decisão por criticidade baixa, uma vez que os indícios capturados pela via neural permanecem insuficientes para transpor os limiares formais necessários para a elevação de risco.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 259/2020
+FILE: KOA_UFO_contrato_ocs_259_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato Ocs 259/2020 resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis com base nos critérios estabelecidos e parcialmente satisfeitos. O critério de processo crítico foi plenamente estabelecido, pois o objeto contratual abrange a prestação de serviços de comunicação de dados para acesso permanente e exclusivo à Internet. O critério de acesso físico também foi estabelecido, visto que o contrato prevê expressamente a instalação e o remanejamento de circuitos nas dependências do BNDES e a observância de normas de segurança física. Por outro lado, os critérios de informação sensível e de acesso ativo de TI permanecem parciais, pois o contrato estabelece apenas obrigações gerais de sigilo e sustentação de circuitos sem especificar acesso direto a dados sensíveis ou ativos críticos. O acesso administrativo foi plenamente descaracterizado, já que o escopo restringe-se a telecomunicações. Assim, a configuração dos critérios satisfeitos conduz estritamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar forneceu suporte semântico aos critérios de informação sensível e acesso ativo de TI, utilizando evidências da Cláusula Décima Terceira, que regula o sigilo e a segurança da informação, e das Cláusulas Primeira e Décima Primeira, que mencionam a instalação de recursos nas dependências do BNDES e a gestão de perfis de acesso profissionais. É importante destacar que esse suporte neural é estritamente complementar e não equivale à evidência simbólica formalmente fundamentada. Embora a avaliação neural tenha reforçado esses pontos, a recomendação neuro-simbólica aponta para uma criticidade média, divergindo da decisão simbólica inicial de criticidade baixa. Essa mudança decorre da confirmação, por via semântica, de elementos contratuais relativos aos critérios `crit_001` e `crit_003`, que foram decisivos para a elevação do nível de criticidade no modelo integrado.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 261/2020
+FILE: KOA_UFO_contrato_ocs_261_2020.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 261/2020 resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras executáveis sobre o estado formal dos critérios analisados. O critério de processo crítico foi formalmente estabelecido como satisfeito (S), pois a Cláusula Primeira evidencia que o objeto envolve o suporte técnico e atualização de software da Plataforma de Integração Tecnológica do BNDES. Por outro lado, o critério de informação sensível encontra-se parcialmente satisfeito (P) devido a previsões gerais de sigilo sem detalhamento técnico exaustivo no texto contratual. Os critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado (U) por ausência de evidências contratuais diretas que confirmem tais ocorrências. Conforme as regras de decisão aplicadas, a presença de apenas um critério plenamente satisfeito conduz diretamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar examinou os critérios de informação sensível, acesso ativo de TI, acesso administrativo e acesso físico, ratificando a suficiência semântica da Cláusula Décima Terceira quanto ao tratamento de sigilo e confirmando as lacunas textuais referentes aos acessos técnicos e físicos que permanecem sem evidências explícitas nas cláusulas de suporte técnico e atualização de software. Vale ressaltar que este suporte neural é estritamente complementar e não equivale a evidências formais de base simbólica. Como a variação do grau de suporte global manteve-se dentro do limiar sem alterar os estados formais originais dos critérios — preservando o quadro de apenas um critério plenamente satisfeito —, a recomendação neuro-simbólica permanece inalterada, corroborando a decisão simbólica original de criticidade baixa para o contrato OCS 261/2020.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 278/2023
+FILE: KOA_UFO_contrato_ocs_278_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+Para o contrato OCS 278/2023, a avaliação da dimensão de criticidade resulta na decisão simbólica de CRITICIDADE MÉDIA. Esta conclusão decorre diretamente da análise formal dos critérios estabelecidos. O critério de processo crítico foi plenamente satisfeito, pois o objeto contratual refere-se à prestação de serviços de suporte técnico e atualização para o Sistema Gerenciador de Banco de Dados. O critério de acesso administrativo também foi satisfeito, uma vez que o escopo de suporte técnico avançado para SGBD corporativo envolve privilégios administrativos ou acesso a recursos centrais de TI. Por outro lado, o critério de informação sensível foi apenas parcialmente satisfeito, pois o contrato regula regras de sigilo e dados pessoais, mas tem como objeto principal o suporte técnico. Adicionalmente, os critérios de acesso ativo de TI e de acesso físico permaneceram indeterminados, visto que o texto contratual não especifica alocação presencial conclusiva com acesso direto a ativos críticos nem detalha o acesso a áreas críticas. Conforme as regras executáveis, a configuração observada conduz diretamente ao nível de criticidade média.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE ALTA
+
+Como complemento neural, ressalta-se que esta análise possui caráter estritamente subsidiário e não substitui nem altera a verdade formal estabelecida pelo sistema simbólico. A avaliação neural aprofundou a leitura semântica de critérios específicos do contrato OCS 278/2023. No critério de informação sensível, as cláusulas de sigilo e proteção de dados foram interpretadas como integralmente suportadas devido às rigorosas obrigações de confidencialidade mapeadas semanticamente. Por outro lado, os critérios de acesso ativo de TI e de acesso físico permaneceram indeterminados, uma vez que o texto contratual e os artefatos organizacionais carecem de evidências conclusivas sobre a alocação de pessoal em áreas e ativos críticos do Banco. Consequentemente, embora o subsistema neural sugira uma recomendação de criticidade alta impulsionada por essa leitura aprofundada, essa inferência complementar não possui força de verdade formal suficiente para sobrepor-se à decisão simbólica original de criticidade média.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 295/2024
+FILE: KOA_UFO_contrato_ocs_295_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE CRÍTICA
+
+A avaliação do contrato OCS 295/2024 na dimensão de criticidade resultou na decisão simbólica de CRITICIDADE CRÍTICA. Esta conclusão decorre da satisfação plena e estabelecida de todos os cinco critérios formais avaliados, sem pendências de evidências parciais ou indeterminadas. A evidência demonstra que o prestador terá acesso a informações sensíveis, incluindo dados pessoais, informações sigilosas e dados de incidentes do BNDES. Além disso, o serviço suporta processos críticos do Banco e atua em situações de crise. Constatou-se também a alocação de colaboradores com acesso a ativos de TI críticos para a segurança da informação, a execução de acesso administrativo para instalação e configuração de ferramentas no ambiente do BNDES, e a previsão de acesso físico às instalações da instituição. A incidência simultânea e formal desses critérios aciona as regras de decisão executáveis que determinam o patamar mais elevado de criticidade para a contratação.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+Como complemento neural ao motor simbólico, ressalta-se que este suporte computacional possui caráter estritamente auxiliar e não substitui a evidência formalmente validada pelo sistema simbólico. Na presente avaliação do contrato OCS 295/2024, a camada neural não registrou ponderações autônomas adicionais, mantendo-se a ausência de avaliações heurísticas específicas nesta etapa. Consequentemente, o índice de garantia de decisão neural permaneceu perfeitamente alinhado ao resultado lógico, registrando uma variação nula em relação à dedução formal. O reexame automatizado corrobora integralmente os critérios positivos já catalogados e preserva intacta a conclusão da primeira etapa. Assim, a recomendação neuro-simbólica ratifica o patamar de criticidade crítica inicialmente estabelecido, indicando que a camada complementar não introduz elementos capazes de alterar o diagnóstico normativo previamente consolidado pelas regras aplicáveis.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 298/2024
+FILE: KOA_UFO_contrato_ocs_298_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+Para o contrato OCS 298/2024, a avaliação da dimensão de criticidade resultou na decisão simbólica de CRITICIDADE MÉDIA. A análise formal estabeleceu satisfatoriamente o estado de satisfeito para quatro critérios essenciais. A evidência demonstra que o contrato envolve informação sensível, suporta um processo crítico por meio de serviços no data center principal do BNDES, garante acesso ativo de TI com alocação de profissionais e requer acesso físico às dependências do Banco. Por outro lado, o critério de acesso administrativo permanece em estado indeterminado, pois o texto contratual não especifica a concessão de privilégios root ou admin. O resultado de criticidade média decorre diretamente da aplicação das regras executáveis que combinam os critérios estabelecidos, fundamentando o nível correspondente na inferência simbólica.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar focou estritamente no critério de acesso administrativo, corroborando o estado indeterminado formalmente estabelecido, uma vez que, embora o contrato preveja suporte técnico e manutenção para o data center principal, os artefatos textuais analisados não trazem menção explícita ou evidência conclusiva sobre a concessão de privilégios root ou admin. É fundamental ressaltar que este suporte neural possui caráter estritamente complementar e não equivale à evidência formalmente fundamentada pelo motor simbólico, mantendo a prudência epistêmica exigida diante da ausência de menção direta no texto. Como a avaliação neural tendeu a manter o critério inconclusivo sem introduzir novos fatos contratuais, a recomendação neuro-simbólica resultante preserva a exata pontuação e o patamar de criticidade da decisão simbólica original, deixando a classificação global inalterada em nível médio.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 319/2022
+FILE: KOA_UFO_contrato_ocs_319_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 319/2022 determinou a decisão simbólica de CRITICIDADE MÉDIA com base nas evidências formais analisadas. Os critérios de processo crítico e acesso ativo de TI foram formalmente estabelecidos como satisfeitos (S), fundamentados na prestação de serviços de suporte técnico para armazenamento centralizado em NAS, que constitui infraestrutura essencial do Banco, e na previsão contratual de perfis de acesso de profissionais e ativos de TI. Em contrapartida, os critérios de informação sensível e acesso físico permaneceram apenas parcialmente satisfeitos (P), pois o contrato prevê obrigações de sigilo e normas de segurança em dependências sem detalhar o acesso a áreas críticas. O critério de acesso administrativo permaneceu indeterminado (U), visto que o texto não discrimina explicitamente o nível de privilégio dos perfis. A decisão de criticidade média decorre diretamente da aplicação das regras executáveis a partir do critério de acesso ativo de TI estabelecido.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar forneceu suporte interpretativo para os critérios de informação sensível, acesso administrativo e acesso físico, mantendo inalterado o estado formal original e a decisão simbólica de criticidade média. No que tange à informação sensível e ao acesso físico, a leitura semântica das cláusulas contratuais evidenciou a existência de regras específicas de sigilo, proteção de dados pessoais e obrigações de conformidade com as normas de segurança nas dependências, embora tais elementos permaneçam sob avaliação parcial no plano formal. Quanto ao acesso administrativo, a verificação neural confirmou a ausência de detalhamento explícito sobre privilégios de TI, preservando o estado indeterminado original. Cumpre ressaltar que este suporte neural possui caráter estritamente complementar e não equivale a evidências formais consolidadas. Como o nível de criticidade neuro-simbólico permaneceu idêntico ao valor simbólico base, o complemento não altera a conclusão inicial do contrato.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 321/2023
+FILE: KOA_UFO_contrato_ocs_321_2023.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Com base na avaliação do contrato OCS 321/2023, a decisão simbólica resultante é de CRITICIDADE BAIXA. O critério de processo crítico foi formalmente estabelecido como satisfeito, uma vez que a Cláusula Primeira evidencia a prestação continuada de serviços de suporte e atualização para softwares de desenvolvimento de sistemas no Mainframe. Em contrapartida, os critérios de acesso ativo de TI, acesso administrativo e acesso físico foram estabelecidos como não satisfeitos (C), pois a Cláusula Décima Terceira determina expressamente que o objeto contratual não contempla acesso ao ambiente de TI ou às instalações do BNDES, além de não prever a alocação de pessoas físicas. O critério de informação sensível permanece em estado parcial (P), pois a evidência aponta apenas uma hipótese condicional de acesso a dados sigilosos. Assim, a decisão de criticidade baixa decorre diretamente da ausência de acessos ativos, administrativos ou físicos, apesar da natureza crítica do suporte prestado.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A avaliação neural atua de forma complementar e não equivale a uma evidência simbólica formalmente grounded, limitando-se ao critério de informação sensível. Semanticamente, a Cláusula Décima Terceira do contrato prevê expressamente a hipótese de acesso eventual a dados, materiais e informações de natureza sigilosa, o que levou o subsistema neural a suportar essa salvaguarda de sigilo. Embora esse suporte neural tenha elevado o grau de atendimento (DGS) de zero vírgula oito para um vírgula zero, a recomendação neuro-simbólica final permanece em criticidade baixa. Isso ocorre porque o acréscimo neural restringe-se a uma hipótese condicional de manuseio de dados, sem alterar a premissa central da decisão simbólica originária, que fundamenta a baixa criticidade na absoluta ausência de acessos ativos, administrativos ou físicos ao ambiente do BNDES.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 331/2022
+FILE: KOA_UFO_contrato_ocs_331_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE ALTA
+
+A avaliação do contrato OCS 331/2022 resulta na decisão simbólica de CRITICIDADE ALTA. Esta conclusão decorre da satisfação plena dos critérios de informação sensível, processo crítico, acesso ativo de TI e acesso administrativo. O critério de informação sensível foi estabelecido pelas cláusulas sobre sigilo e proteção de dados. O processo crítico e o acesso ativo de TI foram comprovados pela implantação e suporte de solução SIEM integrada a ativos críticos. O acesso administrativo restou estabelecido pelo envolvimento com consoles de administração de SIEM. Em contrapartida, o critério de acesso físico permanece apenas parcial, fundamentado em previsões de serviços presenciais ou híbridos nas dependências do BNDES para treinamento e implantação. Conforme as regras executáveis do sistema, a combinação dos critérios plenamente estabelecidos de informação sensível e acesso administrativo aciona diretamente a regra vencedora para o nível de criticidade alta.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE CRÍTICA
+
+Enquanto a decisão simbólica aponta criticidade alta com base em critérios formais parciais de acesso físico, a camada neural suplementar identificou evidências textuais complementares no item 8.1.4 das Especificações Técnicas. Tal dispositivo prevê expressamente a prestação de serviços de implantação da solução SIEM nas dependências do BNDES, no Rio de Janeiro, fornecendo suporte semântico que eleva o critério de acesso físico para plenamente estabelecido. Essa confirmação neural tem caráter puramente complementar e não substitui a evidência formalmente fundamentada pelo sistema simbólico. Em virtude dessa validação neural do acesso físico combinada com os demais fatores, a inferência neuro-simbólica resultante sugere a elevação do patamar para criticidade crítica, demonstrando como a leitura contextualizada de cláusulas contratuais pode influenciar o desfecho da avaliação de risco.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 338/2022
+FILE: KOA_UFO_contrato_ocs_338_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE MÉDIA
+
+A avaliação do contrato OCS 338/2022, na dimensão de criticidade, resultou na decisão simbólica de CRITICIDADE MÉDIA. Esta conclusão decorre da aplicação das regras executáveis sobre os critérios analisados. O critério de processo crítico (crit_002) e o critério de acesso ativo de TI (crit_003) encontram-se plenamente estabelecidos (S), pois a evidência comprova a prestação continuada de serviços de acesso ao SISBACEN, sistema que suporta serviços essenciais e integra ativos cruciais para o Sistema Financeiro Nacional. Em contrapartida, o critério de acesso administrativo (crit_004) permanece não estabelecido (U), visto que o contrato não especifica privilégios administrativos. Além disso, os critérios de informação sensível (crit_001) e acesso físico (crit_005) permanecem parciais (P), pois há menções a obrigações de sigilo, LGPD e acesso genérico a dependências, mas sem detalhamento exaustivo do escopo técnico ou do acesso físico regular a áreas críticas. A decisão de criticidade média segue formalmente a satisfação dos critérios estabelecidos.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+A análise neural complementar valida a presença de obrigações de sigilo e proteção de dados pela Cláusula Décima Segunda e Décima Terceira, além de confirmar previsões de acesso físico e reuniões presenciais nas dependências do Banco, preenchendo semanticamente os critérios de informação sensível e acesso físico. Quanto ao acesso administrativo, o texto contratual permanece sem evidências diretas de privilégios de superusuário, mantendo esse critério indeterminado. Cabe ressaltar que este suporte neural possui caráter estritamente complementar e não equivale a evidências formais computadas pelo motor simbólico. Como a densidade de suporte foi reforçada sem alterar os estados formais impeditivos ou a regra vencedora, a recomendação neuro-simbólica mantém inalterada a decisão de criticidade média originalmente estabelecida pelo sistema formal.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 342/2022
+FILE: KOA_UFO_contrato_ocs_342_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 342/2022, dimensionada para a criticidade, resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre formalmente da satisfação dos critérios de informação sensível e processo crítico. A evidência estabelece que a Cláusula Décima Terceira e a Cláusula Décima Quarta preveem regras de sigilo e proteção de dados pessoais, satisfazendo o critério de informação sensível. Adicionalmente, a Cláusula Primeira estabelece como objeto a prestação de serviços de suporte técnico e atualização da suíte IBM Spectrum Protect, o que satisfaz o critério de processo crítico por envolver software essencial. Em contrapartida, os critérios de acesso ativo de TI e de acesso físico permanecem em estado indeterminado, pois as evidências são parciais ou genéricas quanto à alocação de pessoal e acesso a áreas críticas. Por fim, o critério de acesso administrativo foi claramente afastado, uma vez que o escopo restringe-se ao suporte de software sem prerrogativas administrativas.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar atua estritamente sobre os critérios de acesso ativo de TI e acesso físico, ambos mantidos em estado indeterminado devido à ausência de evidências conclusivas no contrato OCS 342/2022 quanto à alocação física de profissionais nas dependências do BNDES com acesso direto a ativos críticos, apesar da menção genérica a normas de segurança e ao uso de credenciais. Importa ressaltar que este suporte neural possui caráter puramente complementar e não substitui nem equivale às evidências formais da primeira etapa simbólica. Como o grau de segurança global permaneceu inalterado em 0,6 e os demais critérios já garantiam a sustentação normativa, a recomendação neuro-symbolic corrobora integralmente a decisão simbólica original de criticidade baixa, demonstrando que a complementação semântica não altera o nível de risco formalmente estabelecido.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 343/2022
+FILE: KOA_UFO_contrato_ocs_343_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato OCS 343/2022 resulta na decisão de criticidade baixa com base na análise dos critérios formais estabelecidos. O critério de informação sensível encontra-se em estado parcial, pois a Cláusula Décima Quarta e a Cláusula Décima Quinta preveem salvaguardas para dados e informações sigilosas, embora o objeto principal seja o fornecimento de equipamentos. Os critérios de processo crítico, acesso ativo de TI e acesso administrativo estão formalmente satisfeitos com a evidência de que o contrato trata exclusivamente do fornecimento de sistemas de videoconferência e microfones de extensão, sem alocação de mão de obra ou concessão de privilégios e acessos a sistemas do Banco. O acesso físico permanece em estado indeterminado, visto que a entrega e garantia de equipamentos não especificam detalhadamente a entrada em instalações críticas. Conforme as regras executáveis, a ausência de critérios integralmente satisfeitos combinada com a natureza do objeto fundamenta a conclusão por criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+Como complemento à análise simbólica, a verificação neural oferece suporte interpretativo estritamente complementar, que não substitui as evidências formais originais. No que tange ao critério de informação sensível, o exame semântico aponta que as Cláusulas Décima Quarta e Décima Quinta satisfazem a hipótese condicional de proteção a dados, embora o estado formal permaneça parcial. Quanto ao acesso físico, a menção a serviços de garantia prestados por técnicos permanece inconclusiva, mantendo o critério indeterminado por falta de detalhamento sobre a entrada em áreas críticas do Banco. Como a recomendação neuro-simbólica resultante preserva o patamar de criticidade baixa, o complemento neural não altera a conclusão simbólica inicial, pois a confirmação semântica das salvaguardas de sigilo corrobora a adequação da classificação de risco sem elevar o nível geral do contrato.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 344/2022
+FILE: KOA_UFO_contrato_ocs_344_2022.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação formal do contrato Ocs 344/2022 resulta na decisão simbólica de criticidade baixa. Esta conclusão decorre da análise dos critérios estabelecidos, onde nenhum critério foi integralmente satisfeito de forma a elevar o nível de risco. Os critérios de processo crítico, acesso ativo de TI e acesso administrativo encontram-se no estado C, pois o objeto contratual restringe-se estritamente ao fornecimento de bens materiais, especificamente fones de ouvido com microfones (headsets), sem envolver alocação de mão de obra, suporte a processos críticos ou privilégios de acesso a sistemas do Banco. Por sua vez, os critérios de informação sensível e acesso físico encontram-se no estado parcial P. A previsão de sigilo indica apenas um acesso potencial e condicional a dados sigilosos caso venha a ocorrer, e as normas de entrega não detalham o acesso a áreas críticas como CPD ou salas de telecom. Assim, a ausência de critérios plenamente satisfeitos e a natureza do escopo direcionam diretamente para o nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar reforça a fundamentação semântica dos critérios avaliados, ressaltando que esse suporte neural tem caráter meramente complementar e não equivale a uma evidência simbólica formalmente grounded. No que tange ao critério de informação sensível, a interpretação semântica da Cláusula Décima Terceira corrobora o estado parcial ao identificar previsão expressa de potencial acesso a dados sigilosos. Em contrapartida, para o critério de acesso físico, a evidência contratual confirma que o escopo limita-se estritamente ao fornecimento de fones de ouvido, sem prever alocação de mão de obra ou acesso a áreas críticas. Como a recomendação neuro-simbólica resultante coincide com a decisão simbólica de criticidade baixa, conclui-se que os apontamentos neurais não alteram o patamar de risco final, uma vez que a natureza do objeto contratual permanece inalterada e restrita à entrega de bens materiais.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 404/2024
+FILE: KOA_UFO_contrato_ocs_404_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o Contrato OCS 404/2024, a avaliação da dimensão de criticidade resulta na decisão simbólica de CRITICIDADE BAIXA. Esta conclusão decorre da aplicação das regras executáveis com base no estado formal dos critérios analisados. O critério referente ao processo crítico (crit_002) encontra-se formalmente satisfeito (S), pois o objeto envolve a prestação de serviços de teste de invasão externo em sistemas e infraestrutura de TI do BNDES. Por outro lado, o critério de informação sensível (crit_001) permanece em estado parcial (P), uma vez que, embora não haja previsão de compartilhamento de dados pessoais e o teste ocorra sem credenciais, ressalva-se a possibilidade de acesso inadvertido durante os testes. Adicionalmente, os critérios de acesso ativo de TI (crit_003), acesso administrativo (crit_004) e acesso físico (crit_005) estão formalmente contrariados (C), evidenciando a execução remota, a ausência de credenciais ou privilégios e a restrição a testes caixa-preta. Assim, a satisfação exclusiva do processo crítico, combinada com a ausência de acessos administrativos ou físicos e com a natureza parcial da informação sensível, conduz diretamente ao nível de criticidade baixa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A análise neural complementar focou estritamente no critério de informação sensível (`crit_001`), cujo estado formal permanece parcial. Com base na Cláusula 5 do Contrato OCS 404/2024, identificou-se semanticamente que a contratada poderá obter acesso inadvertido a dados pessoais durante os testes de invasão, confirmando a incidência eventual desse risco. Destaca-se que este suporte neural possui caráter puramente complementar e não equivale a uma evidência formalmente fundamentada pelo motor simbólico. Ainda assim, como a recomendação neuro-simbólica resultante coincide integralmente com a decisão simbólica pré-existente de criticidade baixa, o acréscimo analítico não altera o nível de criticidade do contrato, uma vez que a avaliação semântica apenas corrobora a natureza parcial já computada para a informação sensível, sem força suficiente para modificar o enquadramento final.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 418/2024
+FILE: KOA_UFO_contrato_ocs_418_2024.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+A avaliação do contrato Ocs 418/2024 demonstra que apenas o critério de informação sensível foi formalmente satisfeito com estado S, fundamentado pelas regras de sigilo e tratamento de dados pessoais conforme a LGPD previstas nas cláusulas décima terceira e décima primeira. Em contrapartida, o processo crítico permanece em estado parcial P, pois o contrato menciona o suporte SAP Enterprise Support sem detalhar formalmente a sustentação de processos críticos. Os demais critérios de acesso ativo de TI, acesso administrativo e acesso físico permanecem em estado indeterminado U, visto que as menções contratuais são genéricas sobre normas de segurança das dependências, devolução de recursos e revogação de perfis, sem especificar a alocação de mão de obra com acessos diretos, privilégios administrativos ou entradas em áreas críticas. Consequentemente, a decisão simbólica de criticidade baixa decorre estritamente da satisfação exclusiva de um único critério.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE BAIXA
+
+A camada neural atua de forma estritamente complementar, fornecendo uma interpretação semântica que não substitui a evidência formalmente fundamentada da fase simbólica. Analisando os critérios complementares, observa-se que o suporte SAP Enterprise Support atua no ecossistema corporativo, mas carece de granularidade explícita sobre a sustentação de processos críticos e sistemas principais. Da mesma forma, as menções contratuais a normas de segurança das dependências, gestão de perfis e diretrizes de segurança da informação permanecem genéricas, sem comprovar de forma conclusiva a alocação de mão de obra com acesso ativo a ativos de TI, privilégios administrativos ou entrada em áreas críticas como CPD e salas de telecom. Como essas avaliações neurais mantêm os estados inalterados e confirmam a indefinição probatória, o índice de criticidade global permanece inalterado em nível baixo, preservando integralmente a decisão simbólica original.
+====================================================================================================
+
+====================================================================================================
+CONTRACT: OCS 472/2025
+FILE: KOA_UFO_contrato_ocs_472_2025.pl
+
+SYMBOLIC CONCLUSION
+Decision: CRITICIDADE BAIXA
+
+Para o contrato OCS 472/2025, a avaliação da dimensão de criticidade resultou na decisão simbólica de criticidade baixa. Esta conclusão decorre da aplicação das regras executáveis com base no estado formal dos critérios analisados. O critério de informação sensível foi plenamente satisfeito pelo estado S, uma vez que a Cláusula Sétima e o Termo de Referência confirmam expressamente que a contratada poderá ter acesso a dados, materiais e informações de natureza sigilosa. Em contrapartida, os critérios de processo crítico e acesso administrativo permanecem no estado U, por ausência de evidências explícitas sobre suporte a sistemas principais de TI e concessão de privilégios administrativos. Além disso, os critérios de acesso ativo de TI e acesso físico encontram-se no estado P, pois há menção genérica a credenciais e normas de segurança das dependências, mas sem confirmação detalhada de ativos críticos ou áreas restritas. Portanto, a decisão de criticidade baixa segue estritamente a satisfação exclusiva do critério de informação sigilosa.
+
+NEURAL COMPLEMENT
+Complementary recommendation: CRITICIDADE MÉDIA
+
+Como complemento neural estritamente não formal, a análise semântica sobre o contrato OCS 472/2025 avaliou evidências textuais adicionais nos critérios de processo crítico, acesso ativo de TI, acesso administrativo e acesso físico. A avaliação neural identificou suporte complementar no critério de acesso ativo de TI, devido à menção ao fornecimento de permissões e credenciais para operação no ambiente do BNDES, enquanto os demais critérios mantiveram-se inconclusivos por falta de especificações formais sobre privilégios administrativos, áreas restritas ou processos críticos. É fundamental destacar que este suporte neural é puramente complementar e não substitui as evidências formais nem altera os estados definidos pelas regras simbólicas. Contudo, a ponderação dessas constatações textuais sugere uma recomendação de criticidade média, diferindo da decisão simbólica de criticidade baixa, impulsionada pelo reconhecimento semântico do acesso ativo de TI no escopo contratual.
+====================================================================================================

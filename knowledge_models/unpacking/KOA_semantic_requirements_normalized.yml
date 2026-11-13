@@ -1,0 +1,475 @@
+schema_version: koa-semreq-llm-0.3
+doc_meta:
+  language: pt
+  domain_hint: null
+  source_id: KOA_user_information_needs_gseg.txt
+concepts:
+- id: C_7fbcda231b
+  type: concept
+  label: risco operacional
+  definition: possibilidade de perdas decorrentes de falhas, inadequações ou eventos externos que afetem processos, pessoas,
+    sistemas ou controles internos
+  aliases: []
+  evidence:
+  - quote: risco operacional é um conceito mais amplo que se refere à possibilidade de perdas decorrentes de falhas, inadequações
+      ou eventos externos que afetem processos, pessoas, sistemas ou controles internos
+    loc: chunk:0
+- id: C_5926e8e1c1
+  type: concept
+  label: Risco à Segurança da Informação
+  definition: potencial de violação da integridade, confidencialidade, disponibilidade ou autenticidade da informação de propriedade
+    ou custodiada pelo Sistema BNDES em decorrência da exploração de uma ou mais vulnerabilidades de um ativo de informação
+    ou de um conjunto de tais ativos, por parte de uma ou mais ameaças, com impacto negativo às Empresas do Sistema BNDES.
+  aliases: []
+  evidence:
+  - quote: 'Definição de Risco à Segurança da Informação: potencial de violação da integridade, confidencialidade, disponibilidade
+      ou autenticidade da informação de propriedade ou custodiada pelo Sistema BNDES em decorrência da exploração de uma ou
+      mais vulnerabilidades de um ativo de informação ou de um conjunto de tais ativos, por parte de uma ou mais ameaças,
+      com impacto negativo às Empresas do Sistema BNDES'
+    loc: chunk:0
+- id: C_02307388c6
+  type: concept
+  label: risco cibernético
+  definition: risco à segurança da informação que envolve ativo de tecnologia da informação
+  aliases: []
+  evidence:
+  - quote: que é o risco à segurança da informação que envolve ativo de tecnologia da informação
+    loc: chunk:0
+- id: C_bc219a2f81
+  type: concept
+  label: informação sensível
+  definition: informações classificadas em grau de sigilo como “confidenciais”, dados pessoais sensíveis nos termos da LGPD,
+    dados financeiros de clientes e de empregados, dados de projetos de clientes, estratégias de investimento, classificação
+    de risco de clientes, informações que possam afetar a segurança do Sistema Financeiro Nacional e informações tratadas
+    pelos sistemas principais.
+  aliases: []
+  evidence:
+  - quote: Resumidamente, informação sensível para o BNDES são informações classificadas em grau de sigilo como “confidenciais”,
+      dados pessoais sensíveis nos termos da LGPD, dados financeiros de clientes e de empregados, dados de projetos de clientes,
+      estratégias de investimento, classificação de risco de clientes, informações que possam afetar a segurança do Sistema
+      Financeiro Nacional e informações tratadas pelos sistemas principais.
+    loc: chunk:0
+- id: C_249d13362d
+  type: concept
+  label: CRITICIDADE BAIXA
+  definition: Suporte sem acesso a ativos críticos
+  aliases: []
+  evidence:
+  - quote: "•\tCRITICIDADE BAIXA – Suporte sem acesso a ativos críticos"
+    loc: chunk:1
+- id: C_e6c1bf29ba
+  type: concept
+  label: CRITICIDADE MÉDIA
+  definition: Acesso operacional limitado
+  aliases: []
+  evidence:
+  - quote: "•\tCRITICIDADE MÉDIA – Acesso operacional limitado"
+    loc: chunk:1
+- id: C_a6f0952f68
+  type: concept
+  label: CRITICIDADE ALTA
+  definition: Acesso direto a dados sensíveis ou sistemas críticos
+  aliases: []
+  evidence:
+  - quote: "•\tCRITICIDADE ALTA – Acesso direto a dados sensíveis ou sistemas críticos"
+    loc: chunk:1
+- id: C_65f85ad950
+  type: concept
+  label: CRITICIDADE CRÍTICA
+  definition: Herdeiro direto do risco cibernético institucional
+  aliases: []
+  evidence:
+  - quote: "•\tCRITICIDADE CRÍTICA – Herdeiro direto do risco cibernético institucional"
+    loc: chunk:1
+categories:
+- id: T_a29b40ee79
+  type: category
+  label: Tipos de contratos de terceirização
+  taxonomy_type: nominal
+  values:
+  - id: contrato_mao_de_obra_dedicada
+    label: contratos que preveem a alocação de mão-de-obra dedicada ao BNDES que atuam em postos de trabalho definidos no
+      contrato
+    order: 1
+    description: contratos que preveem a alocação de mão-de-obra dedicada ao BNDES que atuam em postos de trabalho definidos
+      no contrato
+    prolog_atom: null
+  - id: contrato_sem_postos_definidos
+    label: contratos de prestação de serviço que não especificam a quantidade de postos de trabalho, mas são prestados com
+      a alocação de pessoas com acesso ao ambiente físico das instalações do BNDES ou com a alocação de pessoas com acesso
+      remoto (por meio de  VPN ou de canais de comunicação de dados/links dedicados) a sistemas do BNDES
+    order: 2
+    description: contratos de prestação de serviço que não especificam a quantidade de postos de trabalho, mas são prestados
+      com a alocação de pessoas com acesso ao ambiente físico das instalações do BNDES ou com a alocação de pessoas com acesso
+      remoto (por meio de  VPN ou de canais de comunicação de dados/links dedicados) a sistemas do BNDES
+    prolog_atom: null
+  evidence:
+  - quote: contratos que preveem a alocação de mão-de-obra dedicada ao BNDES que atuam em postos de trabalho definidos no
+      contrato
+    loc: chunk:0
+  - quote: contratos de prestação de serviço que não especificam a quantidade de postos de trabalho, mas são prestados com
+      a alocação de pessoas com acesso ao ambiente físico das instalações do BNDES ou com a alocação de pessoas com acesso
+      remoto (por meio de  VPN ou de canais de comunicação de dados/links dedicados) a sistemas do BNDES
+    loc: chunk:0
+- id: T_70f221d3a6
+  type: category
+  label: Prestadores de serviço críticos para segurança da informação
+  taxonomy_type: nominal
+  values:
+  - id: cloud
+    label: Cloud (IaaS, PaaS, SaaS)
+    order: 1
+    description: Hospeda dados, sistemas e processos críticos; risco direto à soberania, continuidade e sigilo
+    prolog_atom: null
+  - id: data_center
+    label: Data Center / Colocation
+    order: 2
+    description: Custódia física e lógica de ativos de TI
+    prolog_atom: null
+  - id: draas_backup
+    label: DRaaS / Backup / Storage
+    order: 3
+    description: Última linha de defesa contra perda de dados e repositório de arquivos e de máquinas virtuais
+    prolog_atom: null
+  - id: virtualizacao_containers
+    label: Virtualização e Containers
+    order: 4
+    description: Comprometimento afeta múltiplos sistemas
+    prolog_atom: null
+  - id: plataformas_identidade
+    label: Plataformas de identidade (IAM, SSO)
+    order: 5
+    description: Controle de acesso institucional
+    prolog_atom: null
+  - id: dns_email_ad
+    label: DNS, e-mail corporativo, AD como serviço
+    order: 6
+    description: Infraestrutura essencial de confiança
+    prolog_atom: null
+  - id: fabricas_software
+    label: Fábricas de software / sustentação de sistemas
+    order: 7
+    description: Código vulnerável = porta de entrada
+    prolog_atom: null
+  - id: noc_soc_mssp_csoc
+    label: NOC / SOC / MSSP / CSOC
+    order: 8
+    description: Visibilidade e resposta a incidentes
+    prolog_atom: null
+  - id: gestao_servidores_redes
+    label: Gestão de servidores, redes, firewalls
+    order: 9
+    description: Poder de interrupção e sabotagem
+    prolog_atom: null
+  - id: service_desk
+    label: Service desk com acesso remoto
+    order: 10
+    description: Alto risco de abuso de credenciais
+    prolog_atom: null
+  - id: administracao_banco_dados
+    label: Administração de banco de dados
+    order: 11
+    description: Acesso a dados sensíveis
+    prolog_atom: null
+  - id: pentest_red_team
+    label: Pentest / Red Team
+    order: 12
+    description: Conhecem suas vulnerabilidades
+    prolog_atom: null
+  - id: gestao_vulnerabilidades
+    label: Gestão de vulnerabilidades
+    order: 13
+    description: Sabem “onde atacar”
+    prolog_atom: null
+  - id: soc_terceirizado
+    label: SOC terceirizado
+    order: 14
+    description: Podem ocultar incidentes
+    prolog_atom: null
+  - id: mssp
+    label: MSSP
+    order: 15
+    description: Operam controles críticos
+    prolog_atom: null
+  - id: fornecedores_siem
+    label: Fornecedores de SIEM, EDR, XDR
+    order: 16
+    description: Controle da telemetria de segurança
+    prolog_atom: null
+  - id: crm_sac
+    label: CRM / SAC / contact center
+    order: 17
+    description: Engenharia social
+    prolog_atom: null
+  - id: bi_analytics
+    label: BI / Analytics
+    order: 18
+    description: Exfiltração silenciosa
+    prolog_atom: null
+  - id: fornecedores_software_terceiros
+    label: Fornecedores de software de terceiros
+    order: 19
+    description: Backdoors, dependências
+    prolog_atom: null
+  - id: sistemas_controles_apis
+    label: Sistemas de controles de APIs e integrações / gateway de API
+    order: 20
+    description: Portas abertas permanentes
+    prolog_atom: null
+  - id: plataformas_low_code
+    label: Plataformas low-code/no-code
+    order: 21
+    description: Superfície invisível de ataque
+    prolog_atom: null
+  - id: controle_acesso_fisico
+    label: Controle de acesso físico
+    order: 22
+    description: Porta para sabotagem
+    prolog_atom: null
+  - id: cftv_iot_predial
+    label: CFTV / IoT predial
+    order: 23
+    description: Pivotagem para rede e exposição de dados pessoais
+    prolog_atom: null
+  - id: automacao_predial
+    label: Automação predial, como elevadores e controles de água, energia e ar-condicionado
+    order: 24
+    description: Indisponibilidade sistêmica / sabotagem por acesso a áreas críticas
+    prolog_atom: null
+  - id: provedores_servico_telecom
+    label: Provedores de serviço de telecomunicações e de acesso à RSFN
+    order: 25
+    description: Riscos de disponibilidade de serviços críticos e interceptação de dados telemáticos
+    prolog_atom: null
+  evidence:
+  - quote: Cloud (IaaS, PaaS, SaaS)
+    loc: chunk:0
+  - quote: Data Center / Colocation
+    loc: chunk:0
+  - quote: DRaaS / Backup / Storage
+    loc: chunk:0
+  - quote: Virtualização e Containers
+    loc: chunk:0
+  - quote: Plataformas de identidade (IAM, SSO)
+    loc: chunk:0
+  - quote: DNS, e-mail corporativo, AD como serviço
+    loc: chunk:0
+  - quote: Fábricas de software / sustentação de sistemas
+    loc: chunk:0
+  - quote: NOC / SOC / MSSP / CSOC
+    loc: chunk:0
+  - quote: Gestão de servidores, redes, firewalls
+    loc: chunk:0
+  - quote: Service desk com acesso remoto
+    loc: chunk:0
+  - quote: Administração de banco de dados
+    loc: chunk:0
+  - quote: Pentest / Red Team
+    loc: chunk:0
+  - quote: Gestão de vulnerabilidades
+    loc: chunk:0
+  - quote: SOC terceirizado
+    loc: chunk:0
+  - quote: MSSP
+    loc: chunk:0
+  - quote: Fornecedores de SIEM, EDR, XDR
+    loc: chunk:0
+  - quote: CRM / SAC / contact center
+    loc: chunk:0
+  - quote: BI / Analytics
+    loc: chunk:0
+  - quote: Fornecedores de software de terceiros
+    loc: chunk:0
+  - quote: Sistemas de controles de APIs e integrações / gateway de API
+    loc: chunk:0
+  - quote: Plataformas low-code/no-code
+    loc: chunk:0
+  - quote: Controle de acesso físico
+    loc: chunk:0
+  - quote: CFTV / IoT predial
+    loc: chunk:0
+  - quote: Automação predial, como elevadores e controles de água, energia e ar-condicionado
+    loc: chunk:0
+  - quote: Provedores de serviço de telecomunicações e de acesso à RSFN
+    loc: chunk:0
+- id: T_ae4e61bcbf
+  type: category
+  label: Criticidade dos prestadores
+  taxonomy_type: nominal
+  values:
+  - id: criticidade_baixa
+    label: CRITICIDADE BAIXA
+    order: 1
+    description: Suporte sem acesso a ativos críticos
+    prolog_atom: null
+  - id: criticidade_media
+    label: CRITICIDADE MÉDIA
+    order: 2
+    description: Acesso operacional limitado
+    prolog_atom: null
+  - id: criticidade_alta
+    label: CRITICIDADE ALTA
+    order: 3
+    description: Acesso direto a dados sensíveis ou sistemas críticos
+    prolog_atom: null
+  - id: criticidade_critica
+    label: CRITICIDADE CRÍTICA
+    order: 4
+    description: Herdeiro direto do risco cibernético institucional
+    prolog_atom: null
+  evidence:
+  - quote: 'A criticidade dos prestadores pode ser graduada da seguinte forma:'
+    loc: chunk:1
+question_frames:
+- id: QF_b322c14246
+  type: question_frame
+  question: O prestador de serviço terá acesso a informações sensíveis (dados pessoais, informações sigilosas)?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "1.\tO prestador de serviço terá acesso a informações sensíveis (dados pessoais, informações sigilosas)?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_0d291cf85f
+  type: question_frame
+  question: O serviço a ser prestado suporta algum processo crítico do Banco ou envolve acesso a sistemas principais de TI?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "2.\tO serviço a ser prestado suporta algum processo crítico do Banco ou envolve acesso a sistemas principais de\
+      \ TI?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_10981fbebf
+  type: question_frame
+  question: Haverá colaboradores/mão de obra alocada no BNDES com acesso a ativos de TI do Banco? Os ativos de TI acessados
+    são classificados como críticos para segurança da informação?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "3.\tHaverá colaboradores/mão de obra alocada no BNDES com acesso a ativos de TI do Banco? Os ativos de TI acessados\
+      \ são classificados como críticos para segurança da informação?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_6f969bf116
+  type: question_frame
+  question: A contratação envolve acesso administrativo a recursos de TI do Banco?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "4.\tA contratação envolve acesso administrativo a recursos de TI do Banco?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_640c0560fb
+  type: question_frame
+  question: A contratação envolve o acesso físico de colaboradores a instalações do Banco? Há acesso a áreas com ativos críticos
+    de TI (CPD, Shafts, salas de telecom)?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "5.\tA contratação envolve o acesso físico de colaboradores a instalações do Banco? Há acesso a áreas com ativos\
+      \ críticos de TI (CPD, Shafts, salas de telecom)?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_b737327789
+  type: question_frame
+  question: O prestador de serviço pretende subcontratar os serviços?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "6.\tO prestador de serviço pretende subcontratar os serviços?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_3c795d1d58
+  type: question_frame
+  question: Haverá previsão contratual de direito de auditoria por parte do Banco?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "7.\tHaverá previsão contratual de direito de auditoria por parte do Banco?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_31bd1e67cc
+  type: question_frame
+  question: Há algum processo formalmente estabelecido para desativação do prestador de serviço e de garantia de exclusão
+    segura de dados?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "8.\tHá algum processo formalmente estabelecido para desativação do prestador de serviço e de garantia de exclusão\
+      \ segura de dados?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_e9b8de5caf
+  type: question_frame
+  question: Haverá previsão de apólice de seguro de responsabilidade civil pelo prestador de serviço para mitigação de riscos
+    para o Banco?
+  intent: seguranca_informacao
+  targets: []
+  slots: []
+  evidence:
+  - quote: "9.\tHaverá previsão de apólice de seguro de responsabilidade civil pelo prestador de serviço para mitigação de\
+      \ riscos para o Banco?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_0a61ca294a
+  type: question_frame
+  question: Haverá compartilhamento de dados pessoais da contratante com o prestador de serviço?
+  intent: lgpd
+  targets: []
+  slots: []
+  evidence:
+  - quote: "1.\tHaverá compartilhamento de dados pessoais da contratante com o prestador de serviço?"
+    loc: chunk:1
+  prolog_mapping: null
+- id: QF_923beb4029
+  type: question_frame
+  question: Haverá subcontratação que envolva a transferência de dados pessoais do terceiro para o subcontratado?
+  intent: lgpd
+  targets: []
+  slots: []
+  evidence:
+  - quote: "2.\tHaverá subcontratação que envolva a transferência de dados pessoais do terceiro para o subcontratado?"
+    loc: chunk:1
+  prolog_mapping: null
+relations: []
+constraints: []
+decision_rules:
+- id: D_6ac81f2dd5
+  label: Matriz de decisão
+  rules:
+  - if:
+      hospeda_dados_sistemas: true
+    then:
+      criticidade: CRÍTICO
+  - if:
+      opera_identidade_redes_seguranca: true
+    then:
+      criticidade: CRÍTICO
+  - if:
+      processa_dados_pessoais_sigilosos: true
+    then:
+      criticidade: ALTO
+  - if:
+      tem_acesso_privilegiado: true
+    then:
+      criticidade: ALTO
+  - if:
+      pode_parar_servico_essencial: true
+    then:
+      criticidade: ALTO
+  - if:
+      apenas_suporte_administrativo: true
+    then:
+      criticidade: BAIXO
+  evidence:
+  - quote: 'Matriz de decisão:'
+    loc: chunk:1

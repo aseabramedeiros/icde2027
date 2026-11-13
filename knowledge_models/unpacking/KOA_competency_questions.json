@@ -1,0 +1,244 @@
+[
+  {
+    "qf_id": "QF_b322c14246",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Will the service provider have access to sensitive information (personal data, confidential information)?",
+      "Does the service provider gain access to sensitive information, such as personal or confidential data?",
+      "Is the service provider granted access to sensitive information, which includes personal data and confidential information?"
+    ],
+    "semantic_spec": {
+      "id": "QF_b322c14246",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_0d291cf85f",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Does the service to be provided support a critical Bank process, or does it require access to primary IT systems?",
+      "Does the service being provided involve access to major IT systems or support a key Bank process?",
+      "Is the service to be delivered involved in any critical Bank processes or does it access core IT systems?"
+    ],
+    "semantic_spec": {
+      "id": "QF_0d291cf85f",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_10981fbebf",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Are there any employees or outsourced workers assigned to BNDES who have access to the Bank's IT assets? Are the IT assets they access considered critical for information security?",
+      "Do employees or outsourced workers working at BNDES have access to the Bank's IT assets? Are the IT assets accessed by them categorized as critical for information security?",
+      "Will employees or outsourced labor at BNDES have access to the Bank's IT assets? Are the accessed IT assets classified as critical for information security?"
+    ],
+    "semantic_spec": {
+      "id": "QF_10981fbebf",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_6f969bf116",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Does the hiring process grant administrative access to the Bank's IT resources?",
+      "Does this new hire gain administrative access to the Bank's IT resources?",
+      "Is administrative access to the Bank's IT resources a part of the hiring process?"
+    ],
+    "semantic_spec": {
+      "id": "QF_6f969bf116",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_640c0560fb",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Does the hiring process grant employees physical access to Bank facilities, including areas with critical IT assets like the CPD, shafts, and telecom rooms?",
+      "Is physical access to Bank facilities, particularly those housing critical IT assets (CPD, shafts, telecom rooms), a component of the new hire's responsibilities?",
+      "Will the new employee have physical access to Bank installations, specifically those containing crucial IT assets such as the CPD, shafts, or telecom rooms?"
+    ],
+    "semantic_spec": {
+      "id": "QF_640c0560fb",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_b737327789",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Does the service provider plan to subcontract the services?",
+      "Is the service provider looking to subcontract the services?",
+      "Is the intention of the service provider to subcontract the services?"
+    ],
+    "semantic_spec": {
+      "id": "QF_b737327789",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_3c795d1d58",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Does the contract include a provision for the Bank's right to audit?",
+      "Is there a contractual clause allowing the Bank to conduct audits?",
+      "Will the contract specify the Bank's right to audit?"
+    ],
+    "semantic_spec": {
+      "id": "QF_3c795d1d58",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_31bd1e67cc",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Is there a formally established process for service provider deactivation and ensuring secure data deletion?",
+      "Does a formally established process exist for deactivating the service provider and guaranteeing safe data exclusion?",
+      "Is there a defined procedure in place for the service provider's deactivation and for guaranteeing secure data exclusion?"
+    ],
+    "semantic_spec": {
+      "id": "QF_31bd1e67cc",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_e9b8de5caf",
+    "intent": "seguranca_informacao",
+    "qf_type": "epistemic",
+    "questions": [
+      "Is there a provision for professional liability insurance from the service provider to mitigate risks for the Bank?",
+      "Will the service provider's professional liability insurance policy be included to address risk mitigation for the Bank?",
+      "Does the service provider plan to offer professional liability insurance to reduce risks for the Bank?"
+    ],
+    "semantic_spec": {
+      "id": "QF_e9b8de5caf",
+      "intent": "seguranca_informacao",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_0a61ca294a",
+    "intent": "lgpd",
+    "qf_type": "epistemic",
+    "questions": [
+      "Will there be sharing of the client's personal data with the service provider?",
+      "Is the client's personal data going to be shared with the service provider?",
+      "Will the service provider receive the client's personal data through sharing?"
+    ],
+    "semantic_spec": {
+      "id": "QF_0a61ca294a",
+      "intent": "lgpd",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  },
+  {
+    "qf_id": "QF_923beb4029",
+    "intent": "lgpd",
+    "qf_type": "epistemic",
+    "questions": [
+      "Will there be subcontracting that involves transferring personal data from a third party to the subcontractor?",
+      "Is there any subcontracting planned that includes the transfer of a third party's personal data to the subcontractor?",
+      "Does any subcontracting exist where the subcontractor receives personal data from a third party?"
+    ],
+    "semantic_spec": {
+      "id": "QF_923beb4029",
+      "intent": "lgpd",
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "context": {
+        "qf_type": "epistemic"
+      },
+      "expected_output": null,
+      "template": null
+    }
+  }
+]
